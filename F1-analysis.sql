@@ -18,7 +18,7 @@ SELECT qualifying.raceId, year ,races.name, forename, surname, q3, constructors.
 from qualifying JOIN drivers on qualifying.driverId = drivers.driverId 
 JOIN constructors on qualifying.constructorId = constructors.constructorId
 JOIN races on qualifying.raceID = races.raceId
-where races.year = 2012 != '\N' ORDER BY raceID ASC, position ASC ;
+where races.year = 2012 ORDER BY raceID ASC, position ASC ;
 
 -- fastest seasons at the historic silverstone, monza, spa, and monaco per qualifying lap
 SELECT races.year, circuits.circuitRef, circuits.circuitName, position, q1, q2, q3
