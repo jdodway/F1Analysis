@@ -29,7 +29,7 @@ and position =1 ORDER BY year ASC;
  
 -- now by fastest lap in the race
 SELECT * from results;
-SELECT races.year, circuits.circuitRef, circuits.circuitName, min(fastestLapTime)
+SELECT races.year, circuits.circuitRef, circuits.circuitName, min(fastestLapTime) as FastestLap
 from races JOIN circuits on races.circuitId = circuits.circuitId
 JOIN results on races.raceId = results.raceId
 WHERE circuits.circuitRef IN ('monaco', 'spa', 'monza', 'silverstone') and fastestLapTime is not null
