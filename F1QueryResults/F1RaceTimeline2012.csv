@@ -1,0 +1,481 @@
+raceId,year,name,forename,surname,name,finishingPosition,points
+860,2012,"Australian Grand Prix",Jenson,Button,McLaren,1,25
+860,2012,"Australian Grand Prix",Sebastian,Vettel,"Red Bull",2,18
+860,2012,"Australian Grand Prix",Lewis,Hamilton,McLaren,3,15
+860,2012,"Australian Grand Prix",Mark,Webber,"Red Bull",4,12
+860,2012,"Australian Grand Prix",Fernando,Alonso,Ferrari,5,10
+860,2012,"Australian Grand Prix",Kamui,Kobayashi,Sauber,6,8
+860,2012,"Australian Grand Prix",Kimi,Raikkonen,"Lotus F1",7,6
+860,2012,"Australian Grand Prix",Sergio,Perez,Sauber,8,4
+860,2012,"Australian Grand Prix",Daniel,Ricciardo,"Toro Rosso",9,2
+860,2012,"Australian Grand Prix",Paul,"di Resta","Force India",10,1
+860,2012,"Australian Grand Prix",Jean-eric,Vergne,"Toro Rosso",11,0
+860,2012,"Australian Grand Prix",Nico,Rosberg,Mercedes,12,0
+860,2012,"Australian Grand Prix",Pastor,Maldonado,Williams,13,0
+860,2012,"Australian Grand Prix",Timo,Glock,Marussia,14,0
+860,2012,"Australian Grand Prix",Charles,Pic,Marussia,15,0
+860,2012,"Australian Grand Prix",Bruno,Senna,Williams,16,0
+860,2012,"Australian Grand Prix",Felipe,Massa,Ferrari,17,0
+860,2012,"Australian Grand Prix",Heikki,Kovalainen,Caterham,18,0
+860,2012,"Australian Grand Prix",Vitaly,Petrov,Caterham,19,0
+860,2012,"Australian Grand Prix",Michael,Schumacher,Mercedes,20,0
+860,2012,"Australian Grand Prix",Romain,Grosjean,"Lotus F1",21,0
+860,2012,"Australian Grand Prix",Nico,Hulkenberg,"Force India",22,0
+860,2012,"Australian Grand Prix",Pedro,"de la Rosa",HRT,23,0
+860,2012,"Australian Grand Prix",Narain,Karthikeyan,HRT,24,0
+861,2012,"Malaysian Grand Prix",Fernando,Alonso,Ferrari,1,25
+861,2012,"Malaysian Grand Prix",Sergio,Perez,Sauber,2,18
+861,2012,"Malaysian Grand Prix",Lewis,Hamilton,McLaren,3,15
+861,2012,"Malaysian Grand Prix",Mark,Webber,"Red Bull",4,12
+861,2012,"Malaysian Grand Prix",Kimi,Raikkonen,"Lotus F1",5,10
+861,2012,"Malaysian Grand Prix",Bruno,Senna,Williams,6,8
+861,2012,"Malaysian Grand Prix",Paul,"di Resta","Force India",7,6
+861,2012,"Malaysian Grand Prix",Jean-eric,Vergne,"Toro Rosso",8,4
+861,2012,"Malaysian Grand Prix",Nico,Hulkenberg,"Force India",9,2
+861,2012,"Malaysian Grand Prix",Michael,Schumacher,Mercedes,10,1
+861,2012,"Malaysian Grand Prix",Sebastian,Vettel,"Red Bull",11,0
+861,2012,"Malaysian Grand Prix",Daniel,Ricciardo,"Toro Rosso",12,0
+861,2012,"Malaysian Grand Prix",Nico,Rosberg,Mercedes,13,0
+861,2012,"Malaysian Grand Prix",Jenson,Button,McLaren,14,0
+861,2012,"Malaysian Grand Prix",Felipe,Massa,Ferrari,15,0
+861,2012,"Malaysian Grand Prix",Vitaly,Petrov,Caterham,16,0
+861,2012,"Malaysian Grand Prix",Timo,Glock,Marussia,17,0
+861,2012,"Malaysian Grand Prix",Heikki,Kovalainen,Caterham,18,0
+861,2012,"Malaysian Grand Prix",Pastor,Maldonado,Williams,19,0
+861,2012,"Malaysian Grand Prix",Charles,Pic,Marussia,20,0
+861,2012,"Malaysian Grand Prix",Narain,Karthikeyan,HRT,21,0
+861,2012,"Malaysian Grand Prix",Pedro,"de la Rosa",HRT,22,0
+861,2012,"Malaysian Grand Prix",Kamui,Kobayashi,Sauber,23,0
+861,2012,"Malaysian Grand Prix",Romain,Grosjean,"Lotus F1",24,0
+862,2012,"Chinese Grand Prix",Nico,Rosberg,Mercedes,1,25
+862,2012,"Chinese Grand Prix",Jenson,Button,McLaren,2,18
+862,2012,"Chinese Grand Prix",Lewis,Hamilton,McLaren,3,15
+862,2012,"Chinese Grand Prix",Mark,Webber,"Red Bull",4,12
+862,2012,"Chinese Grand Prix",Sebastian,Vettel,"Red Bull",5,10
+862,2012,"Chinese Grand Prix",Romain,Grosjean,"Lotus F1",6,8
+862,2012,"Chinese Grand Prix",Bruno,Senna,Williams,7,6
+862,2012,"Chinese Grand Prix",Pastor,Maldonado,Williams,8,4
+862,2012,"Chinese Grand Prix",Fernando,Alonso,Ferrari,9,2
+862,2012,"Chinese Grand Prix",Kamui,Kobayashi,Sauber,10,1
+862,2012,"Chinese Grand Prix",Sergio,Perez,Sauber,11,0
+862,2012,"Chinese Grand Prix",Paul,"di Resta","Force India",12,0
+862,2012,"Chinese Grand Prix",Felipe,Massa,Ferrari,13,0
+862,2012,"Chinese Grand Prix",Kimi,Raikkonen,"Lotus F1",14,0
+862,2012,"Chinese Grand Prix",Nico,Hulkenberg,"Force India",15,0
+862,2012,"Chinese Grand Prix",Jean-eric,Vergne,"Toro Rosso",16,0
+862,2012,"Chinese Grand Prix",Daniel,Ricciardo,"Toro Rosso",17,0
+862,2012,"Chinese Grand Prix",Vitaly,Petrov,Caterham,18,0
+862,2012,"Chinese Grand Prix",Timo,Glock,Marussia,19,0
+862,2012,"Chinese Grand Prix",Charles,Pic,Marussia,20,0
+862,2012,"Chinese Grand Prix",Pedro,"de la Rosa",HRT,21,0
+862,2012,"Chinese Grand Prix",Narain,Karthikeyan,HRT,22,0
+862,2012,"Chinese Grand Prix",Heikki,Kovalainen,Caterham,23,0
+862,2012,"Chinese Grand Prix",Michael,Schumacher,Mercedes,24,0
+863,2012,"Bahrain Grand Prix",Sebastian,Vettel,"Red Bull",1,25
+863,2012,"Bahrain Grand Prix",Kimi,Raikkonen,"Lotus F1",2,18
+863,2012,"Bahrain Grand Prix",Romain,Grosjean,"Lotus F1",3,15
+863,2012,"Bahrain Grand Prix",Mark,Webber,"Red Bull",4,12
+863,2012,"Bahrain Grand Prix",Nico,Rosberg,Mercedes,5,10
+863,2012,"Bahrain Grand Prix",Paul,"di Resta","Force India",6,8
+863,2012,"Bahrain Grand Prix",Fernando,Alonso,Ferrari,7,6
+863,2012,"Bahrain Grand Prix",Lewis,Hamilton,McLaren,8,4
+863,2012,"Bahrain Grand Prix",Felipe,Massa,Ferrari,9,2
+863,2012,"Bahrain Grand Prix",Michael,Schumacher,Mercedes,10,1
+863,2012,"Bahrain Grand Prix",Sergio,Perez,Sauber,11,0
+863,2012,"Bahrain Grand Prix",Nico,Hulkenberg,"Force India",12,0
+863,2012,"Bahrain Grand Prix",Kamui,Kobayashi,Sauber,13,0
+863,2012,"Bahrain Grand Prix",Jean-eric,Vergne,"Toro Rosso",14,0
+863,2012,"Bahrain Grand Prix",Daniel,Ricciardo,"Toro Rosso",15,0
+863,2012,"Bahrain Grand Prix",Vitaly,Petrov,Caterham,16,0
+863,2012,"Bahrain Grand Prix",Heikki,Kovalainen,Caterham,17,0
+863,2012,"Bahrain Grand Prix",Jenson,Button,McLaren,18,0
+863,2012,"Bahrain Grand Prix",Timo,Glock,Marussia,19,0
+863,2012,"Bahrain Grand Prix",Pedro,"de la Rosa",HRT,20,0
+863,2012,"Bahrain Grand Prix",Narain,Karthikeyan,HRT,21,0
+863,2012,"Bahrain Grand Prix",Bruno,Senna,Williams,22,0
+863,2012,"Bahrain Grand Prix",Pastor,Maldonado,Williams,23,0
+863,2012,"Bahrain Grand Prix",Charles,Pic,Marussia,24,0
+864,2012,"Spanish Grand Prix",Pastor,Maldonado,Williams,1,25
+864,2012,"Spanish Grand Prix",Fernando,Alonso,Ferrari,2,18
+864,2012,"Spanish Grand Prix",Kimi,Raikkonen,"Lotus F1",3,15
+864,2012,"Spanish Grand Prix",Romain,Grosjean,"Lotus F1",4,12
+864,2012,"Spanish Grand Prix",Kamui,Kobayashi,Sauber,5,10
+864,2012,"Spanish Grand Prix",Sebastian,Vettel,"Red Bull",6,8
+864,2012,"Spanish Grand Prix",Nico,Rosberg,Mercedes,7,6
+864,2012,"Spanish Grand Prix",Lewis,Hamilton,McLaren,8,4
+864,2012,"Spanish Grand Prix",Jenson,Button,McLaren,9,2
+864,2012,"Spanish Grand Prix",Nico,Hulkenberg,"Force India",10,1
+864,2012,"Spanish Grand Prix",Mark,Webber,"Red Bull",11,0
+864,2012,"Spanish Grand Prix",Jean-eric,Vergne,"Toro Rosso",12,0
+864,2012,"Spanish Grand Prix",Daniel,Ricciardo,"Toro Rosso",13,0
+864,2012,"Spanish Grand Prix",Paul,"di Resta","Force India",14,0
+864,2012,"Spanish Grand Prix",Felipe,Massa,Ferrari,15,0
+864,2012,"Spanish Grand Prix",Heikki,Kovalainen,Caterham,16,0
+864,2012,"Spanish Grand Prix",Vitaly,Petrov,Caterham,17,0
+864,2012,"Spanish Grand Prix",Timo,Glock,Marussia,18,0
+864,2012,"Spanish Grand Prix",Pedro,"de la Rosa",HRT,19,0
+864,2012,"Spanish Grand Prix",Sergio,Perez,Sauber,20,0
+864,2012,"Spanish Grand Prix",Charles,Pic,Marussia,21,0
+864,2012,"Spanish Grand Prix",Narain,Karthikeyan,HRT,22,0
+864,2012,"Spanish Grand Prix",Bruno,Senna,Williams,23,0
+864,2012,"Spanish Grand Prix",Michael,Schumacher,Mercedes,24,0
+865,2012,"Monaco Grand Prix",Mark,Webber,"Red Bull",1,25
+865,2012,"Monaco Grand Prix",Nico,Rosberg,Mercedes,2,18
+865,2012,"Monaco Grand Prix",Fernando,Alonso,Ferrari,3,15
+865,2012,"Monaco Grand Prix",Sebastian,Vettel,"Red Bull",4,12
+865,2012,"Monaco Grand Prix",Lewis,Hamilton,McLaren,5,10
+865,2012,"Monaco Grand Prix",Felipe,Massa,Ferrari,6,8
+865,2012,"Monaco Grand Prix",Paul,"di Resta","Force India",7,6
+865,2012,"Monaco Grand Prix",Nico,Hulkenberg,"Force India",8,4
+865,2012,"Monaco Grand Prix",Kimi,Raikkonen,"Lotus F1",9,2
+865,2012,"Monaco Grand Prix",Bruno,Senna,Williams,10,1
+865,2012,"Monaco Grand Prix",Sergio,Perez,Sauber,11,0
+865,2012,"Monaco Grand Prix",Jean-eric,Vergne,"Toro Rosso",12,0
+865,2012,"Monaco Grand Prix",Heikki,Kovalainen,Caterham,13,0
+865,2012,"Monaco Grand Prix",Timo,Glock,Marussia,14,0
+865,2012,"Monaco Grand Prix",Narain,Karthikeyan,HRT,15,0
+865,2012,"Monaco Grand Prix",Jenson,Button,McLaren,16,0
+865,2012,"Monaco Grand Prix",Daniel,Ricciardo,"Toro Rosso",17,0
+865,2012,"Monaco Grand Prix",Charles,Pic,Marussia,18,0
+865,2012,"Monaco Grand Prix",Michael,Schumacher,Mercedes,19,0
+865,2012,"Monaco Grand Prix",Vitaly,Petrov,Caterham,20,0
+865,2012,"Monaco Grand Prix",Kamui,Kobayashi,Sauber,21,0
+865,2012,"Monaco Grand Prix",Pedro,"de la Rosa",HRT,22,0
+865,2012,"Monaco Grand Prix",Pastor,Maldonado,Williams,23,0
+865,2012,"Monaco Grand Prix",Romain,Grosjean,"Lotus F1",24,0
+866,2012,"Canadian Grand Prix",Lewis,Hamilton,McLaren,1,25
+866,2012,"Canadian Grand Prix",Romain,Grosjean,"Lotus F1",2,18
+866,2012,"Canadian Grand Prix",Sergio,Perez,Sauber,3,15
+866,2012,"Canadian Grand Prix",Sebastian,Vettel,"Red Bull",4,12
+866,2012,"Canadian Grand Prix",Fernando,Alonso,Ferrari,5,10
+866,2012,"Canadian Grand Prix",Nico,Rosberg,Mercedes,6,8
+866,2012,"Canadian Grand Prix",Mark,Webber,"Red Bull",7,6
+866,2012,"Canadian Grand Prix",Kimi,Raikkonen,"Lotus F1",8,4
+866,2012,"Canadian Grand Prix",Kamui,Kobayashi,Sauber,9,2
+866,2012,"Canadian Grand Prix",Felipe,Massa,Ferrari,10,1
+866,2012,"Canadian Grand Prix",Paul,"di Resta","Force India",11,0
+866,2012,"Canadian Grand Prix",Nico,Hulkenberg,"Force India",12,0
+866,2012,"Canadian Grand Prix",Pastor,Maldonado,Williams,13,0
+866,2012,"Canadian Grand Prix",Daniel,Ricciardo,"Toro Rosso",14,0
+866,2012,"Canadian Grand Prix",Jean-eric,Vergne,"Toro Rosso",15,0
+866,2012,"Canadian Grand Prix",Jenson,Button,McLaren,16,0
+866,2012,"Canadian Grand Prix",Bruno,Senna,Williams,17,0
+866,2012,"Canadian Grand Prix",Heikki,Kovalainen,Caterham,18,0
+866,2012,"Canadian Grand Prix",Vitaly,Petrov,Caterham,19,0
+866,2012,"Canadian Grand Prix",Charles,Pic,Marussia,20,0
+866,2012,"Canadian Grand Prix",Timo,Glock,Marussia,21,0
+866,2012,"Canadian Grand Prix",Michael,Schumacher,Mercedes,22,0
+866,2012,"Canadian Grand Prix",Pedro,"de la Rosa",HRT,23,0
+866,2012,"Canadian Grand Prix",Narain,Karthikeyan,HRT,24,0
+867,2012,"European Grand Prix",Fernando,Alonso,Ferrari,1,25
+867,2012,"European Grand Prix",Kimi,Raikkonen,"Lotus F1",2,18
+867,2012,"European Grand Prix",Michael,Schumacher,Mercedes,3,15
+867,2012,"European Grand Prix",Mark,Webber,"Red Bull",4,12
+867,2012,"European Grand Prix",Nico,Hulkenberg,"Force India",5,10
+867,2012,"European Grand Prix",Nico,Rosberg,Mercedes,6,8
+867,2012,"European Grand Prix",Paul,"di Resta","Force India",7,6
+867,2012,"European Grand Prix",Jenson,Button,McLaren,8,4
+867,2012,"European Grand Prix",Sergio,Perez,Sauber,9,2
+867,2012,"European Grand Prix",Bruno,Senna,Williams,10,1
+867,2012,"European Grand Prix",Daniel,Ricciardo,"Toro Rosso",11,0
+867,2012,"European Grand Prix",Pastor,Maldonado,Williams,12,0
+867,2012,"European Grand Prix",Vitaly,Petrov,Caterham,13,0
+867,2012,"European Grand Prix",Heikki,Kovalainen,Caterham,14,0
+867,2012,"European Grand Prix",Charles,Pic,Marussia,15,0
+867,2012,"European Grand Prix",Felipe,Massa,Ferrari,16,0
+867,2012,"European Grand Prix",Pedro,"de la Rosa",HRT,17,0
+867,2012,"European Grand Prix",Narain,Karthikeyan,HRT,18,0
+867,2012,"European Grand Prix",Lewis,Hamilton,McLaren,19,0
+867,2012,"European Grand Prix",Romain,Grosjean,"Lotus F1",20,0
+867,2012,"European Grand Prix",Sebastian,Vettel,"Red Bull",21,0
+867,2012,"European Grand Prix",Kamui,Kobayashi,Sauber,22,0
+867,2012,"European Grand Prix",Jean-eric,Vergne,"Toro Rosso",23,0
+867,2012,"European Grand Prix",Timo,Glock,Marussia,24,0
+868,2012,"British Grand Prix",Mark,Webber,"Red Bull",1,25
+868,2012,"British Grand Prix",Fernando,Alonso,Ferrari,2,18
+868,2012,"British Grand Prix",Sebastian,Vettel,"Red Bull",3,15
+868,2012,"British Grand Prix",Felipe,Massa,Ferrari,4,12
+868,2012,"British Grand Prix",Kimi,Raikkonen,"Lotus F1",5,10
+868,2012,"British Grand Prix",Romain,Grosjean,"Lotus F1",6,8
+868,2012,"British Grand Prix",Michael,Schumacher,Mercedes,7,6
+868,2012,"British Grand Prix",Lewis,Hamilton,McLaren,8,4
+868,2012,"British Grand Prix",Bruno,Senna,Williams,9,2
+868,2012,"British Grand Prix",Jenson,Button,McLaren,10,1
+868,2012,"British Grand Prix",Kamui,Kobayashi,Sauber,11,0
+868,2012,"British Grand Prix",Nico,Hulkenberg,"Force India",12,0
+868,2012,"British Grand Prix",Daniel,Ricciardo,"Toro Rosso",13,0
+868,2012,"British Grand Prix",Jean-eric,Vergne,"Toro Rosso",14,0
+868,2012,"British Grand Prix",Nico,Rosberg,Mercedes,15,0
+868,2012,"British Grand Prix",Pastor,Maldonado,Williams,16,0
+868,2012,"British Grand Prix",Heikki,Kovalainen,Caterham,17,0
+868,2012,"British Grand Prix",Timo,Glock,Marussia,18,0
+868,2012,"British Grand Prix",Charles,Pic,Marussia,19,0
+868,2012,"British Grand Prix",Pedro,"de la Rosa",HRT,20,0
+868,2012,"British Grand Prix",Narain,Karthikeyan,HRT,21,0
+868,2012,"British Grand Prix",Sergio,Perez,Sauber,22,0
+868,2012,"British Grand Prix",Paul,"di Resta","Force India",23,0
+868,2012,"British Grand Prix",Vitaly,Petrov,Caterham,24,0
+869,2012,"German Grand Prix",Fernando,Alonso,Ferrari,1,25
+869,2012,"German Grand Prix",Jenson,Button,McLaren,2,18
+869,2012,"German Grand Prix",Kimi,Raikkonen,"Lotus F1",3,15
+869,2012,"German Grand Prix",Kamui,Kobayashi,Sauber,4,12
+869,2012,"German Grand Prix",Sebastian,Vettel,"Red Bull",5,10
+869,2012,"German Grand Prix",Sergio,Perez,Sauber,6,8
+869,2012,"German Grand Prix",Michael,Schumacher,Mercedes,7,6
+869,2012,"German Grand Prix",Mark,Webber,"Red Bull",8,4
+869,2012,"German Grand Prix",Nico,Hulkenberg,"Force India",9,2
+869,2012,"German Grand Prix",Nico,Rosberg,Mercedes,10,1
+869,2012,"German Grand Prix",Paul,"di Resta","Force India",11,0
+869,2012,"German Grand Prix",Felipe,Massa,Ferrari,12,0
+869,2012,"German Grand Prix",Daniel,Ricciardo,"Toro Rosso",13,0
+869,2012,"German Grand Prix",Jean-eric,Vergne,"Toro Rosso",14,0
+869,2012,"German Grand Prix",Pastor,Maldonado,Williams,15,0
+869,2012,"German Grand Prix",Vitaly,Petrov,Caterham,16,0
+869,2012,"German Grand Prix",Bruno,Senna,Williams,17,0
+869,2012,"German Grand Prix",Romain,Grosjean,"Lotus F1",18,0
+869,2012,"German Grand Prix",Heikki,Kovalainen,Caterham,19,0
+869,2012,"German Grand Prix",Charles,Pic,Marussia,20,0
+869,2012,"German Grand Prix",Pedro,"de la Rosa",HRT,21,0
+869,2012,"German Grand Prix",Timo,Glock,Marussia,22,0
+869,2012,"German Grand Prix",Narain,Karthikeyan,HRT,23,0
+869,2012,"German Grand Prix",Lewis,Hamilton,McLaren,24,0
+870,2012,"Hungarian Grand Prix",Lewis,Hamilton,McLaren,1,25
+870,2012,"Hungarian Grand Prix",Kimi,Raikkonen,"Lotus F1",2,18
+870,2012,"Hungarian Grand Prix",Romain,Grosjean,"Lotus F1",3,15
+870,2012,"Hungarian Grand Prix",Sebastian,Vettel,"Red Bull",4,12
+870,2012,"Hungarian Grand Prix",Fernando,Alonso,Ferrari,5,10
+870,2012,"Hungarian Grand Prix",Jenson,Button,McLaren,6,8
+870,2012,"Hungarian Grand Prix",Bruno,Senna,Williams,7,6
+870,2012,"Hungarian Grand Prix",Mark,Webber,"Red Bull",8,4
+870,2012,"Hungarian Grand Prix",Felipe,Massa,Ferrari,9,2
+870,2012,"Hungarian Grand Prix",Nico,Rosberg,Mercedes,10,1
+870,2012,"Hungarian Grand Prix",Nico,Hulkenberg,"Force India",11,0
+870,2012,"Hungarian Grand Prix",Paul,"di Resta","Force India",12,0
+870,2012,"Hungarian Grand Prix",Pastor,Maldonado,Williams,13,0
+870,2012,"Hungarian Grand Prix",Sergio,Perez,Sauber,14,0
+870,2012,"Hungarian Grand Prix",Daniel,Ricciardo,"Toro Rosso",15,0
+870,2012,"Hungarian Grand Prix",Jean-eric,Vergne,"Toro Rosso",16,0
+870,2012,"Hungarian Grand Prix",Heikki,Kovalainen,Caterham,17,0
+870,2012,"Hungarian Grand Prix",Kamui,Kobayashi,Sauber,18,0
+870,2012,"Hungarian Grand Prix",Vitaly,Petrov,Caterham,19,0
+870,2012,"Hungarian Grand Prix",Charles,Pic,Marussia,20,0
+870,2012,"Hungarian Grand Prix",Timo,Glock,Marussia,21,0
+870,2012,"Hungarian Grand Prix",Pedro,"de la Rosa",HRT,22,0
+870,2012,"Hungarian Grand Prix",Narain,Karthikeyan,HRT,23,0
+870,2012,"Hungarian Grand Prix",Michael,Schumacher,Mercedes,24,0
+871,2012,"Belgian Grand Prix",Jenson,Button,McLaren,1,25
+871,2012,"Belgian Grand Prix",Sebastian,Vettel,"Red Bull",2,18
+871,2012,"Belgian Grand Prix",Kimi,Raikkonen,"Lotus F1",3,15
+871,2012,"Belgian Grand Prix",Nico,Hulkenberg,"Force India",4,12
+871,2012,"Belgian Grand Prix",Felipe,Massa,Ferrari,5,10
+871,2012,"Belgian Grand Prix",Mark,Webber,"Red Bull",6,8
+871,2012,"Belgian Grand Prix",Michael,Schumacher,Mercedes,7,6
+871,2012,"Belgian Grand Prix",Jean-eric,Vergne,"Toro Rosso",8,4
+871,2012,"Belgian Grand Prix",Daniel,Ricciardo,"Toro Rosso",9,2
+871,2012,"Belgian Grand Prix",Paul,"di Resta","Force India",10,1
+871,2012,"Belgian Grand Prix",Nico,Rosberg,Mercedes,11,0
+871,2012,"Belgian Grand Prix",Bruno,Senna,Williams,12,0
+871,2012,"Belgian Grand Prix",Kamui,Kobayashi,Sauber,13,0
+871,2012,"Belgian Grand Prix",Vitaly,Petrov,Caterham,14,0
+871,2012,"Belgian Grand Prix",Timo,Glock,Marussia,15,0
+871,2012,"Belgian Grand Prix",Charles,Pic,Marussia,16,0
+871,2012,"Belgian Grand Prix",Heikki,Kovalainen,Caterham,17,0
+871,2012,"Belgian Grand Prix",Pedro,"de la Rosa",HRT,18,0
+871,2012,"Belgian Grand Prix",Narain,Karthikeyan,HRT,19,0
+871,2012,"Belgian Grand Prix",Pastor,Maldonado,Williams,20,0
+871,2012,"Belgian Grand Prix",Sergio,Perez,Sauber,21,0
+871,2012,"Belgian Grand Prix",Fernando,Alonso,Ferrari,22,0
+871,2012,"Belgian Grand Prix",Lewis,Hamilton,McLaren,23,0
+871,2012,"Belgian Grand Prix",Romain,Grosjean,"Lotus F1",24,0
+872,2012,"Italian Grand Prix",Lewis,Hamilton,McLaren,1,25
+872,2012,"Italian Grand Prix",Sergio,Perez,Sauber,2,18
+872,2012,"Italian Grand Prix",Fernando,Alonso,Ferrari,3,15
+872,2012,"Italian Grand Prix",Felipe,Massa,Ferrari,4,12
+872,2012,"Italian Grand Prix",Kimi,Raikkonen,"Lotus F1",5,10
+872,2012,"Italian Grand Prix",Michael,Schumacher,Mercedes,6,8
+872,2012,"Italian Grand Prix",Nico,Rosberg,Mercedes,7,6
+872,2012,"Italian Grand Prix",Paul,"di Resta","Force India",8,4
+872,2012,"Italian Grand Prix",Kamui,Kobayashi,Sauber,9,2
+872,2012,"Italian Grand Prix",Bruno,Senna,Williams,10,1
+872,2012,"Italian Grand Prix",Pastor,Maldonado,Williams,11,0
+872,2012,"Italian Grand Prix",Daniel,Ricciardo,"Toro Rosso",12,0
+872,2012,"Italian Grand Prix",Jerome,d'Ambrosio,"Lotus F1",13,0
+872,2012,"Italian Grand Prix",Heikki,Kovalainen,Caterham,14,0
+872,2012,"Italian Grand Prix",Vitaly,Petrov,Caterham,15,0
+872,2012,"Italian Grand Prix",Charles,Pic,Marussia,16,0
+872,2012,"Italian Grand Prix",Timo,Glock,Marussia,17,0
+872,2012,"Italian Grand Prix",Pedro,"de la Rosa",HRT,18,0
+872,2012,"Italian Grand Prix",Narain,Karthikeyan,HRT,19,0
+872,2012,"Italian Grand Prix",Mark,Webber,"Red Bull",20,0
+872,2012,"Italian Grand Prix",Nico,Hulkenberg,"Force India",21,0
+872,2012,"Italian Grand Prix",Sebastian,Vettel,"Red Bull",22,0
+872,2012,"Italian Grand Prix",Jenson,Button,McLaren,23,0
+872,2012,"Italian Grand Prix",Jean-eric,Vergne,"Toro Rosso",24,0
+873,2012,"Singapore Grand Prix",Sebastian,Vettel,"Red Bull",1,25
+873,2012,"Singapore Grand Prix",Jenson,Button,McLaren,2,18
+873,2012,"Singapore Grand Prix",Fernando,Alonso,Ferrari,3,15
+873,2012,"Singapore Grand Prix",Paul,"di Resta","Force India",4,12
+873,2012,"Singapore Grand Prix",Nico,Rosberg,Mercedes,5,10
+873,2012,"Singapore Grand Prix",Kimi,Raikkonen,"Lotus F1",6,8
+873,2012,"Singapore Grand Prix",Romain,Grosjean,"Lotus F1",7,6
+873,2012,"Singapore Grand Prix",Felipe,Massa,Ferrari,8,4
+873,2012,"Singapore Grand Prix",Daniel,Ricciardo,"Toro Rosso",9,2
+873,2012,"Singapore Grand Prix",Sergio,Perez,Sauber,10,1
+873,2012,"Singapore Grand Prix",Mark,Webber,"Red Bull",11,0
+873,2012,"Singapore Grand Prix",Timo,Glock,Marussia,12,0
+873,2012,"Singapore Grand Prix",Kamui,Kobayashi,Sauber,13,0
+873,2012,"Singapore Grand Prix",Nico,Hulkenberg,"Force India",14,0
+873,2012,"Singapore Grand Prix",Heikki,Kovalainen,Caterham,15,0
+873,2012,"Singapore Grand Prix",Charles,Pic,Marussia,16,0
+873,2012,"Singapore Grand Prix",Pedro,"de la Rosa",HRT,17,0
+873,2012,"Singapore Grand Prix",Bruno,Senna,Williams,18,0
+873,2012,"Singapore Grand Prix",Vitaly,Petrov,Caterham,19,0
+873,2012,"Singapore Grand Prix",Jean-eric,Vergne,"Toro Rosso",20,0
+873,2012,"Singapore Grand Prix",Michael,Schumacher,Mercedes,21,0
+873,2012,"Singapore Grand Prix",Pastor,Maldonado,Williams,22,0
+873,2012,"Singapore Grand Prix",Narain,Karthikeyan,HRT,23,0
+873,2012,"Singapore Grand Prix",Lewis,Hamilton,McLaren,24,0
+874,2012,"Japanese Grand Prix",Sebastian,Vettel,"Red Bull",1,25
+874,2012,"Japanese Grand Prix",Felipe,Massa,Ferrari,2,18
+874,2012,"Japanese Grand Prix",Kamui,Kobayashi,Sauber,3,15
+874,2012,"Japanese Grand Prix",Jenson,Button,McLaren,4,12
+874,2012,"Japanese Grand Prix",Lewis,Hamilton,McLaren,5,10
+874,2012,"Japanese Grand Prix",Kimi,Raikkonen,"Lotus F1",6,8
+874,2012,"Japanese Grand Prix",Nico,Hulkenberg,"Force India",7,6
+874,2012,"Japanese Grand Prix",Pastor,Maldonado,Williams,8,4
+874,2012,"Japanese Grand Prix",Mark,Webber,"Red Bull",9,2
+874,2012,"Japanese Grand Prix",Daniel,Ricciardo,"Toro Rosso",10,1
+874,2012,"Japanese Grand Prix",Michael,Schumacher,Mercedes,11,0
+874,2012,"Japanese Grand Prix",Paul,"di Resta","Force India",12,0
+874,2012,"Japanese Grand Prix",Jean-eric,Vergne,"Toro Rosso",13,0
+874,2012,"Japanese Grand Prix",Bruno,Senna,Williams,14,0
+874,2012,"Japanese Grand Prix",Heikki,Kovalainen,Caterham,15,0
+874,2012,"Japanese Grand Prix",Timo,Glock,Marussia,16,0
+874,2012,"Japanese Grand Prix",Vitaly,Petrov,Caterham,17,0
+874,2012,"Japanese Grand Prix",Pedro,"de la Rosa",HRT,18,0
+874,2012,"Japanese Grand Prix",Romain,Grosjean,"Lotus F1",19,0
+874,2012,"Japanese Grand Prix",Charles,Pic,Marussia,20,0
+874,2012,"Japanese Grand Prix",Narain,Karthikeyan,HRT,21,0
+874,2012,"Japanese Grand Prix",Sergio,Perez,Sauber,22,0
+874,2012,"Japanese Grand Prix",Fernando,Alonso,Ferrari,23,0
+874,2012,"Japanese Grand Prix",Nico,Rosberg,Mercedes,24,0
+875,2012,"Korean Grand Prix",Sebastian,Vettel,"Red Bull",1,25
+875,2012,"Korean Grand Prix",Mark,Webber,"Red Bull",2,18
+875,2012,"Korean Grand Prix",Fernando,Alonso,Ferrari,3,15
+875,2012,"Korean Grand Prix",Felipe,Massa,Ferrari,4,12
+875,2012,"Korean Grand Prix",Kimi,Raikkonen,"Lotus F1",5,10
+875,2012,"Korean Grand Prix",Nico,Hulkenberg,"Force India",6,8
+875,2012,"Korean Grand Prix",Romain,Grosjean,"Lotus F1",7,6
+875,2012,"Korean Grand Prix",Jean-eric,Vergne,"Toro Rosso",8,4
+875,2012,"Korean Grand Prix",Daniel,Ricciardo,"Toro Rosso",9,2
+875,2012,"Korean Grand Prix",Lewis,Hamilton,McLaren,10,1
+875,2012,"Korean Grand Prix",Sergio,Perez,Sauber,11,0
+875,2012,"Korean Grand Prix",Paul,"di Resta","Force India",12,0
+875,2012,"Korean Grand Prix",Michael,Schumacher,Mercedes,13,0
+875,2012,"Korean Grand Prix",Pastor,Maldonado,Williams,14,0
+875,2012,"Korean Grand Prix",Bruno,Senna,Williams,15,0
+875,2012,"Korean Grand Prix",Vitaly,Petrov,Caterham,16,0
+875,2012,"Korean Grand Prix",Heikki,Kovalainen,Caterham,17,0
+875,2012,"Korean Grand Prix",Timo,Glock,Marussia,18,0
+875,2012,"Korean Grand Prix",Charles,Pic,Marussia,19,0
+875,2012,"Korean Grand Prix",Narain,Karthikeyan,HRT,20,0
+875,2012,"Korean Grand Prix",Pedro,"de la Rosa",HRT,21,0
+875,2012,"Korean Grand Prix",Kamui,Kobayashi,Sauber,22,0
+875,2012,"Korean Grand Prix",Nico,Rosberg,Mercedes,23,0
+875,2012,"Korean Grand Prix",Jenson,Button,McLaren,24,0
+876,2012,"Indian Grand Prix",Sebastian,Vettel,"Red Bull",1,25
+876,2012,"Indian Grand Prix",Fernando,Alonso,Ferrari,2,18
+876,2012,"Indian Grand Prix",Mark,Webber,"Red Bull",3,15
+876,2012,"Indian Grand Prix",Lewis,Hamilton,McLaren,4,12
+876,2012,"Indian Grand Prix",Jenson,Button,McLaren,5,10
+876,2012,"Indian Grand Prix",Felipe,Massa,Ferrari,6,8
+876,2012,"Indian Grand Prix",Kimi,Raikkonen,"Lotus F1",7,6
+876,2012,"Indian Grand Prix",Nico,Hulkenberg,"Force India",8,4
+876,2012,"Indian Grand Prix",Romain,Grosjean,"Lotus F1",9,2
+876,2012,"Indian Grand Prix",Bruno,Senna,Williams,10,1
+876,2012,"Indian Grand Prix",Nico,Rosberg,Mercedes,11,0
+876,2012,"Indian Grand Prix",Paul,"di Resta","Force India",12,0
+876,2012,"Indian Grand Prix",Daniel,Ricciardo,"Toro Rosso",13,0
+876,2012,"Indian Grand Prix",Kamui,Kobayashi,Sauber,14,0
+876,2012,"Indian Grand Prix",Jean-eric,Vergne,"Toro Rosso",15,0
+876,2012,"Indian Grand Prix",Pastor,Maldonado,Williams,16,0
+876,2012,"Indian Grand Prix",Vitaly,Petrov,Caterham,17,0
+876,2012,"Indian Grand Prix",Heikki,Kovalainen,Caterham,18,0
+876,2012,"Indian Grand Prix",Charles,Pic,Marussia,19,0
+876,2012,"Indian Grand Prix",Timo,Glock,Marussia,20,0
+876,2012,"Indian Grand Prix",Narain,Karthikeyan,HRT,21,0
+876,2012,"Indian Grand Prix",Michael,Schumacher,Mercedes,22,0
+876,2012,"Indian Grand Prix",Pedro,"de la Rosa",HRT,23,0
+876,2012,"Indian Grand Prix",Sergio,Perez,Sauber,24,0
+877,2012,"Abu Dhabi Grand Prix",Kimi,Raikkonen,"Lotus F1",1,25
+877,2012,"Abu Dhabi Grand Prix",Fernando,Alonso,Ferrari,2,18
+877,2012,"Abu Dhabi Grand Prix",Sebastian,Vettel,"Red Bull",3,15
+877,2012,"Abu Dhabi Grand Prix",Jenson,Button,McLaren,4,12
+877,2012,"Abu Dhabi Grand Prix",Pastor,Maldonado,Williams,5,10
+877,2012,"Abu Dhabi Grand Prix",Kamui,Kobayashi,Sauber,6,8
+877,2012,"Abu Dhabi Grand Prix",Felipe,Massa,Ferrari,7,6
+877,2012,"Abu Dhabi Grand Prix",Bruno,Senna,Williams,8,4
+877,2012,"Abu Dhabi Grand Prix",Paul,"di Resta","Force India",9,2
+877,2012,"Abu Dhabi Grand Prix",Daniel,Ricciardo,"Toro Rosso",10,1
+877,2012,"Abu Dhabi Grand Prix",Michael,Schumacher,Mercedes,11,0
+877,2012,"Abu Dhabi Grand Prix",Jean-eric,Vergne,"Toro Rosso",12,0
+877,2012,"Abu Dhabi Grand Prix",Heikki,Kovalainen,Caterham,13,0
+877,2012,"Abu Dhabi Grand Prix",Timo,Glock,Marussia,14,0
+877,2012,"Abu Dhabi Grand Prix",Sergio,Perez,Sauber,15,0
+877,2012,"Abu Dhabi Grand Prix",Vitaly,Petrov,Caterham,16,0
+877,2012,"Abu Dhabi Grand Prix",Pedro,"de la Rosa",HRT,17,0
+877,2012,"Abu Dhabi Grand Prix",Charles,Pic,Marussia,18,0
+877,2012,"Abu Dhabi Grand Prix",Romain,Grosjean,"Lotus F1",19,0
+877,2012,"Abu Dhabi Grand Prix",Mark,Webber,"Red Bull",20,0
+877,2012,"Abu Dhabi Grand Prix",Lewis,Hamilton,McLaren,21,0
+877,2012,"Abu Dhabi Grand Prix",Narain,Karthikeyan,HRT,22,0
+877,2012,"Abu Dhabi Grand Prix",Nico,Rosberg,Mercedes,23,0
+877,2012,"Abu Dhabi Grand Prix",Nico,Hulkenberg,"Force India",24,0
+878,2012,"United States Grand Prix",Lewis,Hamilton,McLaren,1,25
+878,2012,"United States Grand Prix",Sebastian,Vettel,"Red Bull",2,18
+878,2012,"United States Grand Prix",Fernando,Alonso,Ferrari,3,15
+878,2012,"United States Grand Prix",Felipe,Massa,Ferrari,4,12
+878,2012,"United States Grand Prix",Jenson,Button,McLaren,5,10
+878,2012,"United States Grand Prix",Kimi,Raikkonen,"Lotus F1",6,8
+878,2012,"United States Grand Prix",Romain,Grosjean,"Lotus F1",7,6
+878,2012,"United States Grand Prix",Nico,Hulkenberg,"Force India",8,4
+878,2012,"United States Grand Prix",Pastor,Maldonado,Williams,9,2
+878,2012,"United States Grand Prix",Bruno,Senna,Williams,10,1
+878,2012,"United States Grand Prix",Sergio,Perez,Sauber,11,0
+878,2012,"United States Grand Prix",Daniel,Ricciardo,"Toro Rosso",12,0
+878,2012,"United States Grand Prix",Nico,Rosberg,Mercedes,13,0
+878,2012,"United States Grand Prix",Kamui,Kobayashi,Sauber,14,0
+878,2012,"United States Grand Prix",Paul,"di Resta","Force India",15,0
+878,2012,"United States Grand Prix",Michael,Schumacher,Mercedes,16,0
+878,2012,"United States Grand Prix",Vitaly,Petrov,Caterham,17,0
+878,2012,"United States Grand Prix",Heikki,Kovalainen,Caterham,18,0
+878,2012,"United States Grand Prix",Timo,Glock,Marussia,19,0
+878,2012,"United States Grand Prix",Charles,Pic,Marussia,20,0
+878,2012,"United States Grand Prix",Pedro,"de la Rosa",HRT,21,0
+878,2012,"United States Grand Prix",Narain,Karthikeyan,HRT,22,0
+878,2012,"United States Grand Prix",Mark,Webber,"Red Bull",23,0
+878,2012,"United States Grand Prix",Jean-eric,Vergne,"Toro Rosso",24,0
+879,2012,"Brazilian Grand Prix",Jenson,Button,McLaren,1,25
+879,2012,"Brazilian Grand Prix",Fernando,Alonso,Ferrari,2,18
+879,2012,"Brazilian Grand Prix",Felipe,Massa,Ferrari,3,15
+879,2012,"Brazilian Grand Prix",Mark,Webber,"Red Bull",4,12
+879,2012,"Brazilian Grand Prix",Nico,Hulkenberg,"Force India",5,10
+879,2012,"Brazilian Grand Prix",Sebastian,Vettel,"Red Bull",6,8
+879,2012,"Brazilian Grand Prix",Michael,Schumacher,Mercedes,7,6
+879,2012,"Brazilian Grand Prix",Jean-eric,Vergne,"Toro Rosso",8,4
+879,2012,"Brazilian Grand Prix",Kamui,Kobayashi,Sauber,9,2
+879,2012,"Brazilian Grand Prix",Kimi,Raikkonen,"Lotus F1",10,1
+879,2012,"Brazilian Grand Prix",Vitaly,Petrov,Caterham,11,0
+879,2012,"Brazilian Grand Prix",Charles,Pic,Marussia,12,0
+879,2012,"Brazilian Grand Prix",Daniel,Ricciardo,"Toro Rosso",13,0
+879,2012,"Brazilian Grand Prix",Heikki,Kovalainen,Caterham,14,0
+879,2012,"Brazilian Grand Prix",Nico,Rosberg,Mercedes,15,0
+879,2012,"Brazilian Grand Prix",Timo,Glock,Marussia,16,0
+879,2012,"Brazilian Grand Prix",Pedro,"de la Rosa",HRT,17,0
+879,2012,"Brazilian Grand Prix",Narain,Karthikeyan,HRT,18,0
+879,2012,"Brazilian Grand Prix",Paul,"di Resta","Force India",19,0
+879,2012,"Brazilian Grand Prix",Lewis,Hamilton,McLaren,20,0
+879,2012,"Brazilian Grand Prix",Romain,Grosjean,"Lotus F1",21,0
+879,2012,"Brazilian Grand Prix",Pastor,Maldonado,Williams,22,0
+879,2012,"Brazilian Grand Prix",Bruno,Senna,Williams,23,0
+879,2012,"Brazilian Grand Prix",Sergio,Perez,Sauber,24,0

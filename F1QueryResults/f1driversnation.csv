@@ -1,0 +1,43 @@
+nationality,count(code)
+British,165
+American,157
+Italian,99
+French,73
+German,50
+Brazilian,32
+Argentine,24
+"South African",23
+Swiss,23
+Belgian,23
+Japanese,20
+Australian,17
+Dutch,17
+Austrian,15
+Spanish,15
+Canadian,14
+Swedish,10
+Finnish,9
+"New Zealander",9
+Mexican,6
+Irish,5
+Danish,5
+Portuguese,4
+Russian,4
+Uruguayan,4
+Monegasque,4
+Rhodesian,4
+Colombian,3
+"East German",3
+Venezuelan,3
+Thai,2
+Indian,2
+Liechtensteiner,1
+Chilean,1
+American-Italian,1
+Malaysian,1
+Argentine-Italian,1
+Czech,1
+Hungarian,1
+Polish,1
+Indonesian,1
+Chinese,1

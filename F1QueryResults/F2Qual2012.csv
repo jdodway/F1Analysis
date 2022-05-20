@@ -1,0 +1,477 @@
+raceId,year,name,forename,surname,q3,name,position
+860,2012,"Australian Grand Prix",Lewis,Hamilton,1:24.922,McLaren,1
+860,2012,"Australian Grand Prix",Jenson,Button,1:25.074,McLaren,2
+860,2012,"Australian Grand Prix",Romain,Grosjean,1:25.302,"Lotus F1",3
+860,2012,"Australian Grand Prix",Michael,Schumacher,1:25.336,Mercedes,4
+860,2012,"Australian Grand Prix",Mark,Webber,1:25.651,"Red Bull",5
+860,2012,"Australian Grand Prix",Sebastian,Vettel,1:25.668,"Red Bull",6
+860,2012,"Australian Grand Prix",Nico,Rosberg,1:25.686,Mercedes,7
+860,2012,"Australian Grand Prix",Pastor,Maldonado,1:25.908,Williams,8
+860,2012,"Australian Grand Prix",Nico,Hulkenberg,1:26.451,"Force India",9
+860,2012,"Australian Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",10
+860,2012,"Australian Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",11
+860,2012,"Australian Grand Prix",Fernando,Alonso,\N,Ferrari,12
+860,2012,"Australian Grand Prix",Kamui,Kobayashi,\N,Sauber,13
+860,2012,"Australian Grand Prix",Bruno,Senna,\N,Williams,14
+860,2012,"Australian Grand Prix",Paul,"di Resta",\N,"Force India",15
+860,2012,"Australian Grand Prix",Felipe,Massa,\N,Ferrari,16
+860,2012,"Australian Grand Prix",Sergio,Perez,\N,Sauber,17
+860,2012,"Australian Grand Prix",Kimi,Raikkonen,\N,"Lotus F1",18
+860,2012,"Australian Grand Prix",Heikki,Kovalainen,\N,Caterham,19
+860,2012,"Australian Grand Prix",Vitaly,Petrov,\N,Caterham,20
+860,2012,"Australian Grand Prix",Timo,Glock,\N,Marussia,21
+860,2012,"Australian Grand Prix",Charles,Pic,\N,Marussia,22
+860,2012,"Australian Grand Prix",Pedro,"de la Rosa",\N,HRT,23
+860,2012,"Australian Grand Prix",Narain,Karthikeyan,\N,HRT,24
+861,2012,"Malaysian Grand Prix",Lewis,Hamilton,1:36.219,McLaren,1
+861,2012,"Malaysian Grand Prix",Jenson,Button,1:36.368,McLaren,2
+861,2012,"Malaysian Grand Prix",Michael,Schumacher,1:36.391,Mercedes,3
+861,2012,"Malaysian Grand Prix",Mark,Webber,1:36.461,"Red Bull",4
+861,2012,"Malaysian Grand Prix",Kimi,Raikkonen,1:36.461,"Lotus F1",5
+861,2012,"Malaysian Grand Prix",Sebastian,Vettel,1:36.634,"Red Bull",6
+861,2012,"Malaysian Grand Prix",Romain,Grosjean,1:36.658,"Lotus F1",7
+861,2012,"Malaysian Grand Prix",Nico,Rosberg,1:36.664,Mercedes,8
+861,2012,"Malaysian Grand Prix",Fernando,Alonso,1:37.566,Ferrari,9
+861,2012,"Malaysian Grand Prix",Sergio,Perez,1:37.698,Sauber,10
+861,2012,"Malaysian Grand Prix",Pastor,Maldonado,\N,Williams,11
+861,2012,"Malaysian Grand Prix",Felipe,Massa,\N,Ferrari,12
+861,2012,"Malaysian Grand Prix",Bruno,Senna,\N,Williams,13
+861,2012,"Malaysian Grand Prix",Paul,"di Resta",\N,"Force India",14
+861,2012,"Malaysian Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",15
+861,2012,"Malaysian Grand Prix",Nico,Hulkenberg,\N,"Force India",16
+861,2012,"Malaysian Grand Prix",Kamui,Kobayashi,\N,Sauber,17
+861,2012,"Malaysian Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",18
+861,2012,"Malaysian Grand Prix",Heikki,Kovalainen,\N,Caterham,19
+861,2012,"Malaysian Grand Prix",Vitaly,Petrov,\N,Caterham,20
+861,2012,"Malaysian Grand Prix",Timo,Glock,\N,Marussia,21
+861,2012,"Malaysian Grand Prix",Charles,Pic,\N,Marussia,22
+861,2012,"Malaysian Grand Prix",Pedro,"de la Rosa",\N,HRT,23
+861,2012,"Malaysian Grand Prix",Narain,Karthikeyan,\N,HRT,24
+862,2012,"Chinese Grand Prix",Nico,Rosberg,1:35.121,Mercedes,1
+862,2012,"Chinese Grand Prix",Lewis,Hamilton,1:35.626,McLaren,2
+862,2012,"Chinese Grand Prix",Michael,Schumacher,1:35.691,Mercedes,3
+862,2012,"Chinese Grand Prix",Kamui,Kobayashi,1:35.784,Sauber,4
+862,2012,"Chinese Grand Prix",Kimi,Raikkonen,1:35.898,"Lotus F1",5
+862,2012,"Chinese Grand Prix",Jenson,Button,1:36.191,McLaren,6
+862,2012,"Chinese Grand Prix",Mark,Webber,1:36.290,"Red Bull",7
+862,2012,"Chinese Grand Prix",Sergio,Perez,1:36.524,Sauber,8
+862,2012,"Chinese Grand Prix",Fernando,Alonso,1:36.622,Ferrari,9
+862,2012,"Chinese Grand Prix",Romain,Grosjean,\N,"Lotus F1",10
+862,2012,"Chinese Grand Prix",Sebastian,Vettel,\N,"Red Bull",11
+862,2012,"Chinese Grand Prix",Felipe,Massa,\N,Ferrari,12
+862,2012,"Chinese Grand Prix",Pastor,Maldonado,\N,Williams,13
+862,2012,"Chinese Grand Prix",Bruno,Senna,\N,Williams,14
+862,2012,"Chinese Grand Prix",Paul,"di Resta",\N,"Force India",15
+862,2012,"Chinese Grand Prix",Nico,Hulkenberg,\N,"Force India",16
+862,2012,"Chinese Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",17
+862,2012,"Chinese Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",18
+862,2012,"Chinese Grand Prix",Heikki,Kovalainen,\N,Caterham,19
+862,2012,"Chinese Grand Prix",Vitaly,Petrov,\N,Caterham,20
+862,2012,"Chinese Grand Prix",Timo,Glock,\N,Marussia,21
+862,2012,"Chinese Grand Prix",Charles,Pic,\N,Marussia,22
+862,2012,"Chinese Grand Prix",Pedro,"de la Rosa",\N,HRT,23
+862,2012,"Chinese Grand Prix",Narain,Karthikeyan,\N,HRT,24
+863,2012,"Bahrain Grand Prix",Sebastian,Vettel,1:32.422,"Red Bull",1
+863,2012,"Bahrain Grand Prix",Lewis,Hamilton,1:32.520,McLaren,2
+863,2012,"Bahrain Grand Prix",Mark,Webber,1:32.637,"Red Bull",3
+863,2012,"Bahrain Grand Prix",Jenson,Button,1:32.711,McLaren,4
+863,2012,"Bahrain Grand Prix",Nico,Rosberg,1:32.821,Mercedes,5
+863,2012,"Bahrain Grand Prix",Daniel,Ricciardo,1:32.912,"Toro Rosso",6
+863,2012,"Bahrain Grand Prix",Romain,Grosjean,1:33.008,"Lotus F1",7
+863,2012,"Bahrain Grand Prix",Sergio,Perez,1:33.394,Sauber,8
+863,2012,"Bahrain Grand Prix",Fernando,Alonso,\N,Ferrari,9
+863,2012,"Bahrain Grand Prix",Paul,"di Resta",\N,"Force India",10
+863,2012,"Bahrain Grand Prix",Kimi,Raikkonen,\N,"Lotus F1",11
+863,2012,"Bahrain Grand Prix",Kamui,Kobayashi,\N,Sauber,12
+863,2012,"Bahrain Grand Prix",Nico,Hulkenberg,\N,"Force India",13
+863,2012,"Bahrain Grand Prix",Felipe,Massa,\N,Ferrari,14
+863,2012,"Bahrain Grand Prix",Bruno,Senna,\N,Williams,15
+863,2012,"Bahrain Grand Prix",Heikki,Kovalainen,\N,Caterham,16
+863,2012,"Bahrain Grand Prix",Pastor,Maldonado,\N,Williams,17
+863,2012,"Bahrain Grand Prix",Michael,Schumacher,\N,Mercedes,18
+863,2012,"Bahrain Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",19
+863,2012,"Bahrain Grand Prix",Vitaly,Petrov,\N,Caterham,20
+863,2012,"Bahrain Grand Prix",Charles,Pic,\N,Marussia,21
+863,2012,"Bahrain Grand Prix",Pedro,"de la Rosa",\N,HRT,22
+863,2012,"Bahrain Grand Prix",Timo,Glock,\N,Marussia,23
+863,2012,"Bahrain Grand Prix",Narain,Karthikeyan,\N,HRT,24
+864,2012,"Spanish Grand Prix",Lewis,Hamilton,1:21.707,McLaren,1
+864,2012,"Spanish Grand Prix",Pastor,Maldonado,1:22.285,Williams,2
+864,2012,"Spanish Grand Prix",Fernando,Alonso,1:22.302,Ferrari,3
+864,2012,"Spanish Grand Prix",Romain,Grosjean,1:22.424,"Lotus F1",4
+864,2012,"Spanish Grand Prix",Kimi,Raikkonen,1:22.487,"Lotus F1",5
+864,2012,"Spanish Grand Prix",Sergio,Perez,1:22.533,Sauber,6
+864,2012,"Spanish Grand Prix",Nico,Rosberg,1:23.005,Mercedes,7
+864,2012,"Spanish Grand Prix",Sebastian,Vettel,\N,"Red Bull",8
+864,2012,"Spanish Grand Prix",Michael,Schumacher,\N,Mercedes,9
+864,2012,"Spanish Grand Prix",Kamui,Kobayashi,\N,Sauber,10
+864,2012,"Spanish Grand Prix",Jenson,Button,\N,McLaren,11
+864,2012,"Spanish Grand Prix",Mark,Webber,\N,"Red Bull",12
+864,2012,"Spanish Grand Prix",Paul,"di Resta",\N,"Force India",13
+864,2012,"Spanish Grand Prix",Nico,Hulkenberg,\N,"Force India",14
+864,2012,"Spanish Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",15
+864,2012,"Spanish Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",16
+864,2012,"Spanish Grand Prix",Felipe,Massa,\N,Ferrari,17
+864,2012,"Spanish Grand Prix",Bruno,Senna,\N,Williams,18
+864,2012,"Spanish Grand Prix",Vitaly,Petrov,\N,Caterham,19
+864,2012,"Spanish Grand Prix",Heikki,Kovalainen,\N,Caterham,20
+864,2012,"Spanish Grand Prix",Charles,Pic,\N,Marussia,21
+864,2012,"Spanish Grand Prix",Timo,Glock,\N,Marussia,22
+864,2012,"Spanish Grand Prix",Pedro,"de la Rosa",\N,HRT,23
+864,2012,"Spanish Grand Prix",Narain,Karthikeyan,\N,HRT,24
+865,2012,"Monaco Grand Prix",Michael,Schumacher,1:14.301,Mercedes,1
+865,2012,"Monaco Grand Prix",Mark,Webber,1:14.381,"Red Bull",2
+865,2012,"Monaco Grand Prix",Nico,Rosberg,1:14.448,Mercedes,3
+865,2012,"Monaco Grand Prix",Lewis,Hamilton,1:14.583,McLaren,4
+865,2012,"Monaco Grand Prix",Romain,Grosjean,1:14.639,"Lotus F1",5
+865,2012,"Monaco Grand Prix",Fernando,Alonso,1:14.948,Ferrari,6
+865,2012,"Monaco Grand Prix",Felipe,Massa,1:15.049,Ferrari,7
+865,2012,"Monaco Grand Prix",Kimi,Raikkonen,1:15.199,"Lotus F1",8
+865,2012,"Monaco Grand Prix",Pastor,Maldonado,1:15.245,Williams,9
+865,2012,"Monaco Grand Prix",Sebastian,Vettel,\N,"Red Bull",10
+865,2012,"Monaco Grand Prix",Nico,Hulkenberg,\N,"Force India",11
+865,2012,"Monaco Grand Prix",Kamui,Kobayashi,\N,Sauber,12
+865,2012,"Monaco Grand Prix",Jenson,Button,\N,McLaren,13
+865,2012,"Monaco Grand Prix",Bruno,Senna,\N,Williams,14
+865,2012,"Monaco Grand Prix",Paul,"di Resta",\N,"Force India",15
+865,2012,"Monaco Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",16
+865,2012,"Monaco Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",17
+865,2012,"Monaco Grand Prix",Heikki,Kovalainen,\N,Caterham,18
+865,2012,"Monaco Grand Prix",Vitaly,Petrov,\N,Caterham,19
+865,2012,"Monaco Grand Prix",Timo,Glock,\N,Marussia,20
+865,2012,"Monaco Grand Prix",Pedro,"de la Rosa",\N,HRT,21
+865,2012,"Monaco Grand Prix",Charles,Pic,\N,Marussia,22
+865,2012,"Monaco Grand Prix",Narain,Karthikeyan,\N,HRT,23
+866,2012,"Canadian Grand Prix",Sebastian,Vettel,1:13.784,"Red Bull",1
+866,2012,"Canadian Grand Prix",Lewis,Hamilton,1:14.087,McLaren,2
+866,2012,"Canadian Grand Prix",Fernando,Alonso,1:14.151,Ferrari,3
+866,2012,"Canadian Grand Prix",Mark,Webber,1:14.346,"Red Bull",4
+866,2012,"Canadian Grand Prix",Nico,Rosberg,1:14.411,Mercedes,5
+866,2012,"Canadian Grand Prix",Felipe,Massa,1:14.465,Ferrari,6
+866,2012,"Canadian Grand Prix",Romain,Grosjean,1:14.645,"Lotus F1",7
+866,2012,"Canadian Grand Prix",Paul,"di Resta",1:14.705,"Force India",8
+866,2012,"Canadian Grand Prix",Michael,Schumacher,1:14.812,Mercedes,9
+866,2012,"Canadian Grand Prix",Jenson,Button,1:15.182,McLaren,10
+866,2012,"Canadian Grand Prix",Kamui,Kobayashi,\N,Sauber,11
+866,2012,"Canadian Grand Prix",Kimi,Raikkonen,\N,"Lotus F1",12
+866,2012,"Canadian Grand Prix",Nico,Hulkenberg,\N,"Force India",13
+866,2012,"Canadian Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",14
+866,2012,"Canadian Grand Prix",Sergio,Perez,\N,Sauber,15
+866,2012,"Canadian Grand Prix",Bruno,Senna,\N,Williams,16
+866,2012,"Canadian Grand Prix",Pastor,Maldonado,\N,Williams,17
+866,2012,"Canadian Grand Prix",Heikki,Kovalainen,\N,Caterham,18
+866,2012,"Canadian Grand Prix",Vitaly,Petrov,\N,Caterham,19
+866,2012,"Canadian Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",20
+866,2012,"Canadian Grand Prix",Pedro,"de la Rosa",\N,HRT,21
+866,2012,"Canadian Grand Prix",Timo,Glock,\N,Marussia,22
+866,2012,"Canadian Grand Prix",Charles,Pic,\N,Marussia,23
+866,2012,"Canadian Grand Prix",Narain,Karthikeyan,\N,HRT,24
+867,2012,"European Grand Prix",Sebastian,Vettel,1:38.086,"Red Bull",1
+867,2012,"European Grand Prix",Lewis,Hamilton,1:38.410,McLaren,2
+867,2012,"European Grand Prix",Pastor,Maldonado,1:38.475,Williams,3
+867,2012,"European Grand Prix",Romain,Grosjean,1:38.505,"Lotus F1",4
+867,2012,"European Grand Prix",Kimi,Raikkonen,1:38.513,"Lotus F1",5
+867,2012,"European Grand Prix",Nico,Rosberg,1:38.623,Mercedes,6
+867,2012,"European Grand Prix",Kamui,Kobayashi,1:38.741,Sauber,7
+867,2012,"European Grand Prix",Nico,Hulkenberg,1:38.752,"Force India",8
+867,2012,"European Grand Prix",Jenson,Button,1:38.801,McLaren,9
+867,2012,"European Grand Prix",Paul,"di Resta",1:38.992,"Force India",10
+867,2012,"European Grand Prix",Fernando,Alonso,\N,Ferrari,11
+867,2012,"European Grand Prix",Michael,Schumacher,\N,Mercedes,12
+867,2012,"European Grand Prix",Felipe,Massa,\N,Ferrari,13
+867,2012,"European Grand Prix",Bruno,Senna,\N,Williams,14
+867,2012,"European Grand Prix",Sergio,Perez,\N,Sauber,15
+867,2012,"European Grand Prix",Heikki,Kovalainen,\N,Caterham,16
+867,2012,"European Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",17
+867,2012,"European Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",18
+867,2012,"European Grand Prix",Mark,Webber,\N,"Red Bull",19
+867,2012,"European Grand Prix",Vitaly,Petrov,\N,Caterham,20
+867,2012,"European Grand Prix",Pedro,"de la Rosa",\N,HRT,21
+867,2012,"European Grand Prix",Narain,Karthikeyan,\N,HRT,22
+867,2012,"European Grand Prix",Charles,Pic,\N,Marussia,23
+868,2012,"British Grand Prix",Fernando,Alonso,1:51.746,Ferrari,1
+868,2012,"British Grand Prix",Mark,Webber,1:51.793,"Red Bull",2
+868,2012,"British Grand Prix",Michael,Schumacher,1:52.020,Mercedes,3
+868,2012,"British Grand Prix",Sebastian,Vettel,1:52.199,"Red Bull",4
+868,2012,"British Grand Prix",Felipe,Massa,1:53.065,Ferrari,5
+868,2012,"British Grand Prix",Kimi,Raikkonen,1:53.290,"Lotus F1",6
+868,2012,"British Grand Prix",Pastor,Maldonado,1:53.539,Williams,7
+868,2012,"British Grand Prix",Lewis,Hamilton,1:53.543,McLaren,8
+868,2012,"British Grand Prix",Nico,Hulkenberg,1:54.382,"Force India",9
+868,2012,"British Grand Prix",Romain,Grosjean,\N,"Lotus F1",10
+868,2012,"British Grand Prix",Paul,"di Resta",\N,"Force India",11
+868,2012,"British Grand Prix",Kamui,Kobayashi,\N,Sauber,12
+868,2012,"British Grand Prix",Nico,Rosberg,\N,Mercedes,13
+868,2012,"British Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",14
+868,2012,"British Grand Prix",Bruno,Senna,\N,Williams,15
+868,2012,"British Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",16
+868,2012,"British Grand Prix",Sergio,Perez,\N,Sauber,17
+868,2012,"British Grand Prix",Jenson,Button,\N,McLaren,18
+868,2012,"British Grand Prix",Vitaly,Petrov,\N,Caterham,19
+868,2012,"British Grand Prix",Heikki,Kovalainen,\N,Caterham,20
+868,2012,"British Grand Prix",Timo,Glock,\N,Marussia,21
+868,2012,"British Grand Prix",Pedro,"de la Rosa",\N,HRT,22
+868,2012,"British Grand Prix",Narain,Karthikeyan,\N,HRT,23
+868,2012,"British Grand Prix",Charles,Pic,\N,Marussia,24
+869,2012,"German Grand Prix",Fernando,Alonso,1:40.621,Ferrari,1
+869,2012,"German Grand Prix",Sebastian,Vettel,1:41.026,"Red Bull",2
+869,2012,"German Grand Prix",Mark,Webber,1:41.496,"Red Bull",3
+869,2012,"German Grand Prix",Michael,Schumacher,1:42.459,Mercedes,4
+869,2012,"German Grand Prix",Nico,Hulkenberg,1:43.501,"Force India",5
+869,2012,"German Grand Prix",Pastor,Maldonado,1:43.950,Williams,6
+869,2012,"German Grand Prix",Jenson,Button,1:44.113,McLaren,7
+869,2012,"German Grand Prix",Lewis,Hamilton,1:44.186,McLaren,8
+869,2012,"German Grand Prix",Paul,"di Resta",1:44.889,"Force India",9
+869,2012,"German Grand Prix",Kimi,Raikkonen,1:45.811,"Lotus F1",10
+869,2012,"German Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",11
+869,2012,"German Grand Prix",Sergio,Perez,\N,Sauber,12
+869,2012,"German Grand Prix",Kamui,Kobayashi,\N,Sauber,13
+869,2012,"German Grand Prix",Felipe,Massa,\N,Ferrari,14
+869,2012,"German Grand Prix",Romain,Grosjean,\N,"Lotus F1",15
+869,2012,"German Grand Prix",Bruno,Senna,\N,Williams,16
+869,2012,"German Grand Prix",Nico,Rosberg,\N,Mercedes,17
+869,2012,"German Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",18
+869,2012,"German Grand Prix",Heikki,Kovalainen,\N,Caterham,19
+869,2012,"German Grand Prix",Vitaly,Petrov,\N,Caterham,20
+869,2012,"German Grand Prix",Charles,Pic,\N,Marussia,21
+869,2012,"German Grand Prix",Timo,Glock,\N,Marussia,22
+869,2012,"German Grand Prix",Pedro,"de la Rosa",\N,HRT,23
+869,2012,"German Grand Prix",Narain,Karthikeyan,\N,HRT,24
+870,2012,"Hungarian Grand Prix",Lewis,Hamilton,1:20.953,McLaren,1
+870,2012,"Hungarian Grand Prix",Romain,Grosjean,1:21.366,"Lotus F1",2
+870,2012,"Hungarian Grand Prix",Sebastian,Vettel,1:21.416,"Red Bull",3
+870,2012,"Hungarian Grand Prix",Jenson,Button,1:21.583,McLaren,4
+870,2012,"Hungarian Grand Prix",Kimi,Raikkonen,1:21.730,"Lotus F1",5
+870,2012,"Hungarian Grand Prix",Fernando,Alonso,1:21.844,Ferrari,6
+870,2012,"Hungarian Grand Prix",Felipe,Massa,1:21.900,Ferrari,7
+870,2012,"Hungarian Grand Prix",Pastor,Maldonado,1:21.939,Williams,8
+870,2012,"Hungarian Grand Prix",Bruno,Senna,1:22.343,Williams,9
+870,2012,"Hungarian Grand Prix",Nico,Hulkenberg,1:22.847,"Force India",10
+870,2012,"Hungarian Grand Prix",Mark,Webber,\N,"Red Bull",11
+870,2012,"Hungarian Grand Prix",Paul,"di Resta",\N,"Force India",12
+870,2012,"Hungarian Grand Prix",Nico,Rosberg,\N,Mercedes,13
+870,2012,"Hungarian Grand Prix",Sergio,Perez,\N,Sauber,14
+870,2012,"Hungarian Grand Prix",Kamui,Kobayashi,\N,Sauber,15
+870,2012,"Hungarian Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",16
+870,2012,"Hungarian Grand Prix",Michael,Schumacher,\N,Mercedes,17
+870,2012,"Hungarian Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",18
+870,2012,"Hungarian Grand Prix",Heikki,Kovalainen,\N,Caterham,19
+870,2012,"Hungarian Grand Prix",Vitaly,Petrov,\N,Caterham,20
+870,2012,"Hungarian Grand Prix",Charles,Pic,\N,Marussia,21
+870,2012,"Hungarian Grand Prix",Timo,Glock,\N,Marussia,22
+870,2012,"Hungarian Grand Prix",Pedro,"de la Rosa",\N,HRT,23
+870,2012,"Hungarian Grand Prix",Narain,Karthikeyan,\N,HRT,24
+871,2012,"Belgian Grand Prix",Jenson,Button,1:47.573,McLaren,1
+871,2012,"Belgian Grand Prix",Kamui,Kobayashi,1:47.871,Sauber,2
+871,2012,"Belgian Grand Prix",Pastor,Maldonado,1:47.893,Williams,3
+871,2012,"Belgian Grand Prix",Kimi,Raikkonen,1:48.205,"Lotus F1",4
+871,2012,"Belgian Grand Prix",Sergio,Perez,1:48.219,Sauber,5
+871,2012,"Belgian Grand Prix",Fernando,Alonso,1:48.313,Ferrari,6
+871,2012,"Belgian Grand Prix",Mark,Webber,1:48.392,"Red Bull",7
+871,2012,"Belgian Grand Prix",Lewis,Hamilton,1:48.394,McLaren,8
+871,2012,"Belgian Grand Prix",Romain,Grosjean,1:48.538,"Lotus F1",9
+871,2012,"Belgian Grand Prix",Paul,"di Resta",1:48.890,"Force India",10
+871,2012,"Belgian Grand Prix",Sebastian,Vettel,\N,"Red Bull",11
+871,2012,"Belgian Grand Prix",Nico,Hulkenberg,\N,"Force India",12
+871,2012,"Belgian Grand Prix",Michael,Schumacher,\N,Mercedes,13
+871,2012,"Belgian Grand Prix",Felipe,Massa,\N,Ferrari,14
+871,2012,"Belgian Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",15
+871,2012,"Belgian Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",16
+871,2012,"Belgian Grand Prix",Bruno,Senna,\N,Williams,17
+871,2012,"Belgian Grand Prix",Nico,Rosberg,\N,Mercedes,18
+871,2012,"Belgian Grand Prix",Heikki,Kovalainen,\N,Caterham,19
+871,2012,"Belgian Grand Prix",Vitaly,Petrov,\N,Caterham,20
+871,2012,"Belgian Grand Prix",Timo,Glock,\N,Marussia,21
+871,2012,"Belgian Grand Prix",Pedro,"de la Rosa",\N,HRT,22
+871,2012,"Belgian Grand Prix",Charles,Pic,\N,Marussia,23
+871,2012,"Belgian Grand Prix",Narain,Karthikeyan,\N,HRT,24
+872,2012,"Italian Grand Prix",Lewis,Hamilton,1:24.010,McLaren,1
+872,2012,"Italian Grand Prix",Jenson,Button,1:24.133,McLaren,2
+872,2012,"Italian Grand Prix",Felipe,Massa,1:24.247,Ferrari,3
+872,2012,"Italian Grand Prix",Paul,"di Resta",1:24.304,"Force India",4
+872,2012,"Italian Grand Prix",Michael,Schumacher,1:24.540,Mercedes,5
+872,2012,"Italian Grand Prix",Sebastian,Vettel,1:24.802,"Red Bull",6
+872,2012,"Italian Grand Prix",Nico,Rosberg,1:24.833,Mercedes,7
+872,2012,"Italian Grand Prix",Kimi,Raikkonen,1:24.855,"Lotus F1",8
+872,2012,"Italian Grand Prix",Kamui,Kobayashi,1:25.109,Sauber,9
+872,2012,"Italian Grand Prix",Fernando,Alonso,1:25.678,Ferrari,10
+872,2012,"Italian Grand Prix",Mark,Webber,\N,"Red Bull",11
+872,2012,"Italian Grand Prix",Pastor,Maldonado,\N,Williams,12
+872,2012,"Italian Grand Prix",Sergio,Perez,\N,Sauber,13
+872,2012,"Italian Grand Prix",Bruno,Senna,\N,Williams,14
+872,2012,"Italian Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",15
+872,2012,"Italian Grand Prix",Jerome,d'Ambrosio,\N,"Lotus F1",16
+872,2012,"Italian Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",17
+872,2012,"Italian Grand Prix",Heikki,Kovalainen,\N,Caterham,18
+872,2012,"Italian Grand Prix",Vitaly,Petrov,\N,Caterham,19
+872,2012,"Italian Grand Prix",Timo,Glock,\N,Marussia,20
+872,2012,"Italian Grand Prix",Charles,Pic,\N,Marussia,21
+872,2012,"Italian Grand Prix",Narain,Karthikeyan,\N,HRT,22
+872,2012,"Italian Grand Prix",Pedro,"de la Rosa",\N,HRT,23
+873,2012,"Singapore Grand Prix",Lewis,Hamilton,1:46.362,McLaren,1
+873,2012,"Singapore Grand Prix",Pastor,Maldonado,1:46.804,Williams,2
+873,2012,"Singapore Grand Prix",Sebastian,Vettel,1:46.905,"Red Bull",3
+873,2012,"Singapore Grand Prix",Jenson,Button,1:46.939,McLaren,4
+873,2012,"Singapore Grand Prix",Fernando,Alonso,1:47.216,Ferrari,5
+873,2012,"Singapore Grand Prix",Paul,"di Resta",1:47.241,"Force India",6
+873,2012,"Singapore Grand Prix",Mark,Webber,1:47.475,"Red Bull",7
+873,2012,"Singapore Grand Prix",Romain,Grosjean,1:47.788,"Lotus F1",8
+873,2012,"Singapore Grand Prix",Michael,Schumacher,\N,Mercedes,9
+873,2012,"Singapore Grand Prix",Nico,Rosberg,\N,Mercedes,10
+873,2012,"Singapore Grand Prix",Nico,Hulkenberg,\N,"Force India",11
+873,2012,"Singapore Grand Prix",Kimi,Raikkonen,\N,"Lotus F1",12
+873,2012,"Singapore Grand Prix",Felipe,Massa,\N,Ferrari,13
+873,2012,"Singapore Grand Prix",Sergio,Perez,\N,Sauber,14
+873,2012,"Singapore Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",15
+873,2012,"Singapore Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",16
+873,2012,"Singapore Grand Prix",Bruno,Senna,\N,Williams,17
+873,2012,"Singapore Grand Prix",Kamui,Kobayashi,\N,Sauber,18
+873,2012,"Singapore Grand Prix",Vitaly,Petrov,\N,Caterham,19
+873,2012,"Singapore Grand Prix",Heikki,Kovalainen,\N,Caterham,20
+873,2012,"Singapore Grand Prix",Timo,Glock,\N,Marussia,21
+873,2012,"Singapore Grand Prix",Charles,Pic,\N,Marussia,22
+873,2012,"Singapore Grand Prix",Narain,Karthikeyan,\N,HRT,23
+873,2012,"Singapore Grand Prix",Pedro,"de la Rosa",\N,HRT,24
+874,2012,"Japanese Grand Prix",Sebastian,Vettel,1:30.839,"Red Bull",1
+874,2012,"Japanese Grand Prix",Mark,Webber,1:31.090,"Red Bull",2
+874,2012,"Japanese Grand Prix",Jenson,Button,1:31.290,McLaren,3
+874,2012,"Japanese Grand Prix",Kamui,Kobayashi,1:31.700,Sauber,4
+874,2012,"Japanese Grand Prix",Romain,Grosjean,1:31.898,"Lotus F1",5
+874,2012,"Japanese Grand Prix",Sergio,Perez,1:32.022,Sauber,6
+874,2012,"Japanese Grand Prix",Fernando,Alonso,1:32.114,Ferrari,7
+874,2012,"Japanese Grand Prix",Kimi,Raikkonen,1:32.208,"Lotus F1",8
+874,2012,"Japanese Grand Prix",Lewis,Hamilton,1:32.327,McLaren,9
+874,2012,"Japanese Grand Prix",Nico,Hulkenberg,\N,"Force India",10
+874,2012,"Japanese Grand Prix",Felipe,Massa,\N,Ferrari,11
+874,2012,"Japanese Grand Prix",Paul,"di Resta",\N,"Force India",12
+874,2012,"Japanese Grand Prix",Michael,Schumacher,\N,Mercedes,13
+874,2012,"Japanese Grand Prix",Pastor,Maldonado,\N,Williams,14
+874,2012,"Japanese Grand Prix",Nico,Rosberg,\N,Mercedes,15
+874,2012,"Japanese Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",16
+874,2012,"Japanese Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",17
+874,2012,"Japanese Grand Prix",Bruno,Senna,\N,Williams,18
+874,2012,"Japanese Grand Prix",Heikki,Kovalainen,\N,Caterham,19
+874,2012,"Japanese Grand Prix",Timo,Glock,\N,Marussia,20
+874,2012,"Japanese Grand Prix",Pedro,"de la Rosa",\N,HRT,21
+874,2012,"Japanese Grand Prix",Charles,Pic,\N,Marussia,22
+874,2012,"Japanese Grand Prix",Vitaly,Petrov,\N,Caterham,23
+874,2012,"Japanese Grand Prix",Narain,Karthikeyan,\N,HRT,24
+875,2012,"Korean Grand Prix",Mark,Webber,1:37.242,"Red Bull",1
+875,2012,"Korean Grand Prix",Sebastian,Vettel,1:37.316,"Red Bull",2
+875,2012,"Korean Grand Prix",Lewis,Hamilton,1:37.469,McLaren,3
+875,2012,"Korean Grand Prix",Fernando,Alonso,1:37.534,Ferrari,4
+875,2012,"Korean Grand Prix",Kimi,Raikkonen,1:37.625,"Lotus F1",5
+875,2012,"Korean Grand Prix",Felipe,Massa,1:37.884,Ferrari,6
+875,2012,"Korean Grand Prix",Romain,Grosjean,1:37.934,"Lotus F1",7
+875,2012,"Korean Grand Prix",Nico,Hulkenberg,1:38.266,"Force India",8
+875,2012,"Korean Grand Prix",Nico,Rosberg,1:38.361,Mercedes,9
+875,2012,"Korean Grand Prix",Michael,Schumacher,1:38.513,Mercedes,10
+875,2012,"Korean Grand Prix",Jenson,Button,\N,McLaren,11
+875,2012,"Korean Grand Prix",Sergio,Perez,\N,Sauber,12
+875,2012,"Korean Grand Prix",Kamui,Kobayashi,\N,Sauber,13
+875,2012,"Korean Grand Prix",Paul,"di Resta",\N,"Force India",14
+875,2012,"Korean Grand Prix",Pastor,Maldonado,\N,Williams,15
+875,2012,"Korean Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",16
+875,2012,"Korean Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",17
+875,2012,"Korean Grand Prix",Bruno,Senna,\N,Williams,18
+875,2012,"Korean Grand Prix",Vitaly,Petrov,\N,Caterham,19
+875,2012,"Korean Grand Prix",Heikki,Kovalainen,\N,Caterham,20
+875,2012,"Korean Grand Prix",Charles,Pic,\N,Marussia,21
+875,2012,"Korean Grand Prix",Timo,Glock,\N,Marussia,22
+875,2012,"Korean Grand Prix",Pedro,"de la Rosa",\N,HRT,23
+876,2012,"Indian Grand Prix",Sebastian,Vettel,1:25.283,"Red Bull",1
+876,2012,"Indian Grand Prix",Mark,Webber,1:25.327,"Red Bull",2
+876,2012,"Indian Grand Prix",Lewis,Hamilton,1:25.544,McLaren,3
+876,2012,"Indian Grand Prix",Jenson,Button,1:25.659,McLaren,4
+876,2012,"Indian Grand Prix",Fernando,Alonso,1:25.773,Ferrari,5
+876,2012,"Indian Grand Prix",Felipe,Massa,1:25.857,Ferrari,6
+876,2012,"Indian Grand Prix",Kimi,Raikkonen,1:26.236,"Lotus F1",7
+876,2012,"Indian Grand Prix",Sergio,Perez,1:26.360,Sauber,8
+876,2012,"Indian Grand Prix",Pastor,Maldonado,1:26.713,Williams,9
+876,2012,"Indian Grand Prix",Nico,Rosberg,\N,Mercedes,10
+876,2012,"Indian Grand Prix",Romain,Grosjean,\N,"Lotus F1",11
+876,2012,"Indian Grand Prix",Nico,Hulkenberg,\N,"Force India",12
+876,2012,"Indian Grand Prix",Bruno,Senna,\N,Williams,13
+876,2012,"Indian Grand Prix",Michael,Schumacher,\N,Mercedes,14
+876,2012,"Indian Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",15
+876,2012,"Indian Grand Prix",Paul,"di Resta",\N,"Force India",16
+876,2012,"Indian Grand Prix",Kamui,Kobayashi,\N,Sauber,17
+876,2012,"Indian Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",18
+876,2012,"Indian Grand Prix",Vitaly,Petrov,\N,Caterham,19
+876,2012,"Indian Grand Prix",Heikki,Kovalainen,\N,Caterham,20
+876,2012,"Indian Grand Prix",Timo,Glock,\N,Marussia,21
+876,2012,"Indian Grand Prix",Pedro,"de la Rosa",\N,HRT,22
+876,2012,"Indian Grand Prix",Narain,Karthikeyan,\N,HRT,23
+876,2012,"Indian Grand Prix",Charles,Pic,\N,Marussia,24
+877,2012,"Abu Dhabi Grand Prix",Lewis,Hamilton,1:40.630,McLaren,1
+877,2012,"Abu Dhabi Grand Prix",Mark,Webber,1:40.978,"Red Bull",2
+877,2012,"Abu Dhabi Grand Prix",Sebastian,Vettel,1:41.073,"Red Bull",3
+877,2012,"Abu Dhabi Grand Prix",Pastor,Maldonado,1:41.226,Williams,4
+877,2012,"Abu Dhabi Grand Prix",Kimi,Raikkonen,1:41.260,"Lotus F1",5
+877,2012,"Abu Dhabi Grand Prix",Jenson,Button,1:41.290,McLaren,6
+877,2012,"Abu Dhabi Grand Prix",Fernando,Alonso,1:41.582,Ferrari,7
+877,2012,"Abu Dhabi Grand Prix",Nico,Rosberg,1:41.603,Mercedes,8
+877,2012,"Abu Dhabi Grand Prix",Felipe,Massa,1:41.723,Ferrari,9
+877,2012,"Abu Dhabi Grand Prix",Romain,Grosjean,1:41.778,"Lotus F1",10
+877,2012,"Abu Dhabi Grand Prix",Nico,Hulkenberg,\N,"Force India",11
+877,2012,"Abu Dhabi Grand Prix",Sergio,Perez,\N,Sauber,12
+877,2012,"Abu Dhabi Grand Prix",Paul,"di Resta",\N,"Force India",13
+877,2012,"Abu Dhabi Grand Prix",Michael,Schumacher,\N,Mercedes,14
+877,2012,"Abu Dhabi Grand Prix",Bruno,Senna,\N,Williams,15
+877,2012,"Abu Dhabi Grand Prix",Kamui,Kobayashi,\N,Sauber,16
+877,2012,"Abu Dhabi Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",17
+877,2012,"Abu Dhabi Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",18
+877,2012,"Abu Dhabi Grand Prix",Heikki,Kovalainen,\N,Caterham,19
+877,2012,"Abu Dhabi Grand Prix",Charles,Pic,\N,Marussia,20
+877,2012,"Abu Dhabi Grand Prix",Vitaly,Petrov,\N,Caterham,21
+877,2012,"Abu Dhabi Grand Prix",Timo,Glock,\N,Marussia,22
+877,2012,"Abu Dhabi Grand Prix",Pedro,"de la Rosa",\N,HRT,23
+877,2012,"Abu Dhabi Grand Prix",Narain,Karthikeyan,\N,HRT,24
+878,2012,"United States Grand Prix",Sebastian,Vettel,1:35.657,"Red Bull",1
+878,2012,"United States Grand Prix",Lewis,Hamilton,1:35.766,McLaren,2
+878,2012,"United States Grand Prix",Mark,Webber,1:36.174,"Red Bull",3
+878,2012,"United States Grand Prix",Romain,Grosjean,1:36.587,"Lotus F1",4
+878,2012,"United States Grand Prix",Kimi,Raikkonen,1:36.708,"Lotus F1",5
+878,2012,"United States Grand Prix",Michael,Schumacher,1:36.794,Mercedes,6
+878,2012,"United States Grand Prix",Felipe,Massa,1:36.937,Ferrari,7
+878,2012,"United States Grand Prix",Nico,Hulkenberg,1:37.141,"Force India",8
+878,2012,"United States Grand Prix",Fernando,Alonso,1:37.300,Ferrari,9
+878,2012,"United States Grand Prix",Pastor,Maldonado,1:37.842,Williams,10
+878,2012,"United States Grand Prix",Bruno,Senna,\N,Williams,11
+878,2012,"United States Grand Prix",Jenson,Button,\N,McLaren,12
+878,2012,"United States Grand Prix",Paul,"di Resta",\N,"Force India",13
+878,2012,"United States Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",14
+878,2012,"United States Grand Prix",Sergio,Perez,\N,Sauber,15
+878,2012,"United States Grand Prix",Kamui,Kobayashi,\N,Sauber,16
+878,2012,"United States Grand Prix",Nico,Rosberg,\N,Mercedes,17
+878,2012,"United States Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",18
+878,2012,"United States Grand Prix",Timo,Glock,\N,Marussia,19
+878,2012,"United States Grand Prix",Charles,Pic,\N,Marussia,20
+878,2012,"United States Grand Prix",Vitaly,Petrov,\N,Caterham,21
+878,2012,"United States Grand Prix",Heikki,Kovalainen,\N,Caterham,22
+878,2012,"United States Grand Prix",Pedro,"de la Rosa",\N,HRT,23
+878,2012,"United States Grand Prix",Narain,Karthikeyan,\N,HRT,24
+879,2012,"Brazilian Grand Prix",Lewis,Hamilton,1:12.458,McLaren,1
+879,2012,"Brazilian Grand Prix",Jenson,Button,1:12.513,McLaren,2
+879,2012,"Brazilian Grand Prix",Mark,Webber,1:12.581,"Red Bull",3
+879,2012,"Brazilian Grand Prix",Sebastian,Vettel,1:12.760,"Red Bull",4
+879,2012,"Brazilian Grand Prix",Felipe,Massa,1:12.987,Ferrari,5
+879,2012,"Brazilian Grand Prix",Pastor,Maldonado,1:13.174,Williams,6
+879,2012,"Brazilian Grand Prix",Nico,Hulkenberg,1:13.206,"Force India",7
+879,2012,"Brazilian Grand Prix",Fernando,Alonso,1:13.253,Ferrari,8
+879,2012,"Brazilian Grand Prix",Kimi,Raikkonen,1:13.298,"Lotus F1",9
+879,2012,"Brazilian Grand Prix",Nico,Rosberg,1:13.489,Mercedes,10
+879,2012,"Brazilian Grand Prix",Paul,"di Resta",\N,"Force India",11
+879,2012,"Brazilian Grand Prix",Bruno,Senna,\N,Williams,12
+879,2012,"Brazilian Grand Prix",Sergio,Perez,\N,Sauber,13
+879,2012,"Brazilian Grand Prix",Michael,Schumacher,\N,Mercedes,14
+879,2012,"Brazilian Grand Prix",Kamui,Kobayashi,\N,Sauber,15
+879,2012,"Brazilian Grand Prix",Daniel,Ricciardo,\N,"Toro Rosso",16
+879,2012,"Brazilian Grand Prix",Jean-eric,Vergne,\N,"Toro Rosso",17
+879,2012,"Brazilian Grand Prix",Romain,Grosjean,\N,"Lotus F1",18
+879,2012,"Brazilian Grand Prix",Vitaly,Petrov,\N,Caterham,19
+879,2012,"Brazilian Grand Prix",Heikki,Kovalainen,\N,Caterham,20
+879,2012,"Brazilian Grand Prix",Timo,Glock,\N,Marussia,21
+879,2012,"Brazilian Grand Prix",Charles,Pic,\N,Marussia,22
+879,2012,"Brazilian Grand Prix",Narain,Karthikeyan,\N,HRT,23
+879,2012,"Brazilian Grand Prix",Pedro,"de la Rosa",\N,HRT,24
