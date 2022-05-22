@@ -5,3 +5,6 @@ CSV files were downloaded from https://www.kaggle.com/datasets/rohanrao/formula-
 I will be doing some analysis and visualizations, along with some data scraping in Python.
 
 I will eventually create some visualizations in Tableau.
+
+## Create website so I can show plotly
+
