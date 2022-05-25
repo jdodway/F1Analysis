@@ -1,0 +1,470 @@
+year,"Circuit Name","Number of American Drivers"
+1950,"Circuit Bremgarten",1
+1950,"Circuit de Monaco",1
+1950,"Indianapolis Motor Speedway",34
+1951,"Autodromo Nazionale di Monza",1
+1951,"Circuit Bremgarten",1
+1951,"Indianapolis Motor Speedway",34
+1951,Nurburgring,1
+1951,Reims-Gueux,1
+1952,"Circuit Bremgarten",1
+1952,"Circuit de Spa-Francorchamps",1
+1952,"Indianapolis Motor Speedway",32
+1952,Rouen-Les-Essarts,1
+1952,"Silverstone Circuit",1
+1953,"Autodromo Juan y Oscar Galvez",1
+1953,"Autodromo Nazionale di Monza",2
+1953,"Circuit Bremgarten",1
+1953,"Circuit de Spa-Francorchamps",2
+1953,"Circuit Park Zandvoort",1
+1953,"Indianapolis Motor Speedway",37
+1953,Nurburgring,2
+1953,Reims-Gueux,1
+1953,"Silverstone Circuit",1
+1954,"Autodromo Juan y Oscar Galvez",1
+1954,"Autodromo Nazionale di Monza",1
+1954,"Circuit Bremgarten",3
+1954,"Circuit de Pedralbes",2
+1954,"Circuit de Spa-Francorchamps",1
+1954,"Indianapolis Motor Speedway",42
+1954,Nurburgring,1
+1954,Reims-Gueux,1
+1954,"Silverstone Circuit",1
+1955,Aintree,1
+1955,"Autodromo Juan y Oscar Galvez",1
+1955,"Autodromo Nazionale di Monza",2
+1955,"Circuit de Monaco",1
+1955,"Circuit de Spa-Francorchamps",1
+1955,"Indianapolis Motor Speedway",35
+1956,"Autodromo Nazionale di Monza",1
+1956,"Circuit de Monaco",1
+1956,"Circuit de Spa-Francorchamps",1
+1956,"Indianapolis Motor Speedway",34
+1956,Nurburgring,1
+1956,Reims-Gueux,1
+1956,"Silverstone Circuit",1
+1957,Aintree,1
+1957,"Autodromo Juan y Oscar Galvez",1
+1957,"Autodromo Nazionale di Monza",2
+1957,"Circuit de Monaco",2
+1957,"Indianapolis Motor Speedway",33
+1957,Nurburgring,2
+1957,"Pescara Circuit",2
+1957,Rouen-Les-Essarts,2
+1958,"Ain Diab",3
+1958,"Autodromo Juan y Oscar Galvez",1
+1958,"Autodromo Nazionale di Monza",4
+1958,"Circuit de Monaco",2
+1958,"Circuit de Spa-Francorchamps",2
+1958,"Circuit Park Zandvoort",2
+1958,"Circuito da Boavista",2
+1958,"Indianapolis Motor Speedway",33
+1958,Nurburgring,3
+1958,Reims-Gueux,4
+1958,"Silverstone Circuit",2
+1959,Aintree,3
+1959,"Autodromo Nazionale di Monza",4
+1959,AVUS,4
+1959,"Circuit de Monaco",4
+1959,"Circuit Park Zandvoort",4
+1959,"Indianapolis Motor Speedway",33
+1959,"Monsanto Park Circuit",5
+1959,Reims-Gueux,4
+1959,"Sebring International Raceway",7
+1960,"Autodromo Juan y Oscar Galvez",3
+1960,"Autodromo Nazionale di Monza",3
+1960,"Circuit de Monaco",6
+1960,"Circuit de Spa-Francorchamps",4
+1960,"Circuit Park Zandvoort",6
+1960,"Circuito da Boavista",3
+1960,"Indianapolis Motor Speedway",33
+1960,Reims-Gueux,5
+1960,"Riverside International Raceway",6
+1960,"Silverstone Circuit",5
+1961,Aintree,4
+1961,"Autodromo Nazionale di Monza",4
+1961,"Circuit de Monaco",4
+1961,"Circuit de Spa-Francorchamps",4
+1961,"Circuit Park Zandvoort",4
+1961,Nurburgring,4
+1961,Reims-Gueux,4
+1961,"Watkins Glen",7
+1962,Aintree,6
+1962,"Autodromo Nazionale di Monza",6
+1962,"Circuit de Monaco",4
+1962,"Circuit de Spa-Francorchamps",4
+1962,"Circuit Park Zandvoort",4
+1962,Nurburgring,4
+1962,"Prince George Circuit",2
+1962,Rouen-Les-Essarts,3
+1962,"Watkins Glen",7
+1963,"Autodromo Hermanos Rodriguez",9
+1963,"Autodromo Nazionale di Monza",6
+1963,"Circuit de Monaco",5
+1963,"Circuit de Spa-Francorchamps",5
+1963,"Circuit Park Zandvoort",5
+1963,Nurburgring,6
+1963,"Prince George Circuit",2
+1963,Reims-Gueux,6
+1963,"Silverstone Circuit",6
+1963,"Watkins Glen",8
+1964,"Autodromo Hermanos Rodriguez",4
+1964,"Autodromo Nazionale di Monza",4
+1964,"Brands Hatch",4
+1964,"Circuit de Monaco",4
+1964,"Circuit de Spa-Francorchamps",4
+1964,"Circuit Park Zandvoort",3
+1964,Nurburgring,5
+1964,Rouen-Les-Essarts,3
+1964,"Watkins Glen",6
+1964,Zeltweg,3
+1965,"Autodromo Hermanos Rodriguez",4
+1965,"Autodromo Nazionale di Monza",4
+1965,"Charade Circuit",3
+1965,"Circuit de Monaco",2
+1965,"Circuit de Spa-Francorchamps",4
+1965,"Circuit Park Zandvoort",2
+1965,Nurburgring,2
+1965,"Prince George Circuit",1
+1965,"Silverstone Circuit",3
+1965,"Watkins Glen",4
+1966,"Autodromo Hermanos Rodriguez",4
+1966,"Autodromo Nazionale di Monza",4
+1966,"Brands Hatch",2
+1966,"Circuit de Monaco",2
+1966,"Circuit de Spa-Francorchamps",3
+1966,"Circuit Park Zandvoort",1
+1966,Nurburgring,2
+1966,Reims-Gueux,1
+1966,"Watkins Glen",4
+1967,"Autodromo Hermanos Rodriguez",2
+1967,"Autodromo Nazionale di Monza",1
+1967,"Circuit de Monaco",2
+1967,"Circuit de Spa-Francorchamps",1
+1967,"Circuit Park Zandvoort",1
+1967,Kyalami,1
+1967,"Le Mans",1
+1967,"Mosport International Raceway",3
+1967,Nurburgring,1
+1967,"Silverstone Circuit",1
+1967,"Watkins Glen",1
+1968,"Autodromo Hermanos Rodriguez",1
+1968,"Autodromo Nazionale di Monza",1
+1968,"Brands Hatch",1
+1968,"Circuit de Monaco",1
+1968,"Circuit Mont-Tremblant",1
+1968,"Circuit Park Zandvoort",1
+1968,Kyalami,1
+1968,Nurburgring,1
+1968,"Watkins Glen",3
+1969,"Autodromo Hermanos Rodriguez",1
+1969,Kyalami,1
+1969,"Mosport International Raceway",1
+1969,Nurburgring,1
+1969,"Watkins Glen",2
+1970,A1-Ring,1
+1970,"Brands Hatch",3
+1970,"Charade Circuit",2
+1970,"Circuit Park Zandvoort",2
+1970,Hockenheimring,1
+1970,Jarama,1
+1970,Kyalami,1
+1970,"Watkins Glen",2
+1971,"Circuit de Monaco",2
+1971,"Circuit Park Zandvoort",2
+1971,Kyalami,1
+1971,Montjuic,1
+1971,"Mosport International Raceway",4
+1971,Nurburgring,1
+1971,"Watkins Glen",4
+1972,A1-Ring,1
+1972,"Autodromo Juan y Oscar Galvez",2
+1972,"Autodromo Nazionale di Monza",2
+1972,"Brands Hatch",1
+1972,Jarama,2
+1972,Kyalami,2
+1972,"Mosport International Raceway",2
+1972,Nivelles-Baulers,1
+1972,"Watkins Glen",4
+1973,A1-Ring,2
+1973,"Autodromo Jose Carlos Pace",1
+1973,"Autodromo Juan y Oscar Galvez",1
+1973,"Autodromo Nazionale di Monza",2
+1973,"Circuit de Monaco",1
+1973,"Circuit Park Zandvoort",2
+1973,"Circuit Paul Ricard",1
+1973,Kyalami,2
+1973,Montjuic,2
+1973,"Mosport International Raceway",2
+1973,Nurburgring,2
+1973,"Scandinavian Raceway",2
+1973,"Silverstone Circuit",2
+1973,"Watkins Glen",2
+1973,Zolder,2
+1974,"Autodromo Jose Carlos Pace",1
+1974,"Autodromo Juan y Oscar Galvez",1
+1974,"Mosport International Raceway",2
+1974,"Watkins Glen",2
+1975,A1-Ring,3
+1975,"Autodromo Jose Carlos Pace",2
+1975,"Autodromo Juan y Oscar Galvez",2
+1975,"Autodromo Nazionale di Monza",2
+1975,"Circuit de Monaco",2
+1975,"Circuit Park Zandvoort",1
+1975,"Circuit Paul Ricard",2
+1975,Kyalami,2
+1975,Montjuic,2
+1975,Nurburgring,2
+1975,"Scandinavian Raceway",2
+1975,"Silverstone Circuit",2
+1975,"Watkins Glen",2
+1975,Zolder,1
+1976,A1-Ring,2
+1976,"Autodromo Jose Carlos Pace",1
+1976,"Autodromo Nazionale di Monza",2
+1976,"Brands Hatch",2
+1976,"Circuit Park Zandvoort",1
+1976,"Circuit Paul Ricard",2
+1976,"Fuji Speedway",1
+1976,Jarama,2
+1976,Kyalami,2
+1976,"Long Beach",2
+1976,"Mosport International Raceway",2
+1976,Nurburgring,2
+1976,"Scandinavian Raceway",2
+1976,"Watkins Glen",2
+1976,Zolder,2
+1977,A1-Ring,2
+1977,"Autodromo Jose Carlos Pace",1
+1977,"Autodromo Juan y Oscar Galvez",1
+1977,"Autodromo Nazionale di Monza",2
+1977,"Circuit de Monaco",1
+1977,"Circuit Park Zandvoort",2
+1977,Dijon-Prenois,2
+1977,"Fuji Speedway",1
+1977,Hockenheimring,2
+1977,Jarama,2
+1977,Kyalami,2
+1977,"Long Beach",2
+1977,"Mosport International Raceway",3
+1977,"Scandinavian Raceway",2
+1977,"Silverstone Circuit",2
+1977,"Watkins Glen",3
+1977,Zolder,1
+1978,A1-Ring,2
+1978,"Autodromo Internacional Nelson Piquet",4
+1978,"Autodromo Juan y Oscar Galvez",4
+1978,"Autodromo Nazionale di Monza",2
+1978,"Brands Hatch",2
+1978,"Circuit de Monaco",2
+1978,"Circuit Gilles Villeneuve",2
+1978,"Circuit Park Zandvoort",3
+1978,"Circuit Paul Ricard",2
+1978,Hockenheimring,2
+1978,Jarama,2
+1978,Kyalami,3
+1978,"Long Beach",3
+1978,"Scandinavian Raceway",2
+1978,"Watkins Glen",3
+1978,Zolder,2
+1979,A1-Ring,1
+1979,"Autodromo Jose Carlos Pace",1
+1979,"Autodromo Juan y Oscar Galvez",1
+1979,"Autodromo Nazionale di Monza",1
+1979,"Circuit de Monaco",1
+1979,"Circuit Gilles Villeneuve",1
+1979,"Circuit Park Zandvoort",1
+1979,Dijon-Prenois,1
+1979,Hockenheimring,1
+1979,Jarama,1
+1979,Kyalami,1
+1979,"Long Beach",1
+1979,"Silverstone Circuit",1
+1979,"Watkins Glen",1
+1979,Zolder,1
+1980,A1-Ring,2
+1980,"Autodromo Enzo e Dino Ferrari",2
+1980,"Autodromo Jose Carlos Pace",2
+1980,"Autodromo Juan y Oscar Galvez",2
+1980,"Brands Hatch",2
+1980,"Circuit de Monaco",2
+1980,"Circuit Gilles Villeneuve",3
+1980,"Circuit Park Zandvoort",2
+1980,"Circuit Paul Ricard",2
+1980,Hockenheimring,2
+1980,Kyalami,2
+1980,"Long Beach",2
+1980,"Watkins Glen",2
+1980,Zolder,2
+1981,A1-Ring,2
+1981,"Autodromo Enzo e Dino Ferrari",2
+1981,"Autodromo Internacional Nelson Piquet",2
+1981,"Autodromo Juan y Oscar Galvez",2
+1981,"Autodromo Nazionale di Monza",2
+1981,"Circuit de Monaco",2
+1981,"Circuit Gilles Villeneuve",2
+1981,"Circuit Park Zandvoort",2
+1981,Dijon-Prenois,2
+1981,Hockenheimring,2
+1981,Jarama,2
+1981,"Las Vegas Street Circuit",2
+1981,"Long Beach",3
+1981,"Silverstone Circuit",2
+1981,Zolder,2
+1982,A1-Ring,1
+1982,"Autodromo Internacional Nelson Piquet",1
+1982,"Autodromo Nazionale di Monza",2
+1982,"Brands Hatch",1
+1982,"Circuit de Monaco",1
+1982,"Circuit Gilles Villeneuve",1
+1982,"Circuit Park Zandvoort",1
+1982,"Circuit Paul Ricard",1
+1982,"Detroit Street Circuit",1
+1982,Dijon-Prenois,1
+1982,Hockenheimring,1
+1982,Kyalami,1
+1982,"Las Vegas Street Circuit",2
+1982,"Long Beach",2
+1982,Zolder,1
+1983,A1-Ring,2
+1983,"Autodromo Enzo e Dino Ferrari",2
+1983,"Autodromo Internacional Nelson Piquet",2
+1983,"Autodromo Nazionale di Monza",2
+1983,"Brands Hatch",2
+1983,"Circuit de Monaco",2
+1983,"Circuit de Spa-Francorchamps",2
+1983,"Circuit Gilles Villeneuve",2
+1983,"Circuit Park Zandvoort",2
+1983,"Circuit Paul Ricard",2
+1983,"Detroit Street Circuit",2
+1983,Hockenheimring,2
+1983,Kyalami,2
+1983,"Long Beach",2
+1983,"Silverstone Circuit",2
+1984,A1-Ring,1
+1984,"Autodromo do Estoril",1
+1984,"Autodromo Enzo e Dino Ferrari",1
+1984,"Autodromo Internacional Nelson Piquet",1
+1984,"Autodromo Nazionale di Monza",1
+1984,"Brands Hatch",1
+1984,"Circuit de Monaco",1
+1984,"Circuit Gilles Villeneuve",1
+1984,"Circuit Park Zandvoort",1
+1984,"Detroit Street Circuit",1
+1984,Dijon-Prenois,1
+1984,"Fair Park",1
+1984,Hockenheimring,1
+1984,Kyalami,1
+1984,Nurburgring,1
+1984,Zolder,1
+1985,A1-Ring,1
+1985,"Adelaide Street Circuit",1
+1985,"Autodromo do Estoril",1
+1985,"Autodromo Enzo e Dino Ferrari",1
+1985,"Autodromo Internacional Nelson Piquet",1
+1985,"Autodromo Nazionale di Monza",1
+1985,"Brands Hatch",1
+1985,"Circuit de Monaco",1
+1985,"Circuit de Spa-Francorchamps",1
+1985,"Circuit Gilles Villeneuve",1
+1985,"Circuit Park Zandvoort",1
+1985,"Circuit Paul Ricard",1
+1985,"Detroit Street Circuit",1
+1985,Kyalami,1
+1985,Nurburgring,1
+1985,"Silverstone Circuit",1
+1986,"Detroit Street Circuit",1
+1987,A1-Ring,1
+1987,"Adelaide Street Circuit",1
+1987,"Autodromo do Estoril",1
+1987,"Autodromo Enzo e Dino Ferrari",1
+1987,"Autodromo Hermanos Rodriguez",1
+1987,"Autodromo Internacional Nelson Piquet",1
+1987,"Autodromo Nazionale di Monza",1
+1987,"Circuit de Monaco",1
+1987,"Circuit de Spa-Francorchamps",1
+1987,"Circuit Paul Ricard",1
+1987,"Circuito de Jerez",1
+1987,"Detroit Street Circuit",1
+1987,Hockenheimring,1
+1987,Hungaroring,1
+1987,"Silverstone Circuit",1
+1987,"Suzuka Circuit",1
+1988,"Adelaide Street Circuit",1
+1988,"Autodromo do Estoril",1
+1988,"Autodromo Enzo e Dino Ferrari",1
+1988,"Autodromo Hermanos Rodriguez",1
+1988,"Autodromo Internacional Nelson Piquet",1
+1988,"Autodromo Nazionale di Monza",1
+1988,"Circuit de Monaco",1
+1988,"Circuit de Spa-Francorchamps",1
+1988,"Circuit Gilles Villeneuve",1
+1988,"Circuit Paul Ricard",1
+1988,"Circuito de Jerez",1
+1988,"Detroit Street Circuit",1
+1988,Hockenheimring,1
+1988,Hungaroring,1
+1988,"Silverstone Circuit",1
+1988,"Suzuka Circuit",1
+1989,"Adelaide Street Circuit",1
+1989,"Autodromo do Estoril",1
+1989,"Autodromo Enzo e Dino Ferrari",1
+1989,"Autodromo Hermanos Rodriguez",1
+1989,"Autodromo Internacional Nelson Piquet",1
+1989,"Autodromo Nazionale di Monza",1
+1989,"Circuit de Monaco",1
+1989,"Circuit de Spa-Francorchamps",1
+1989,"Circuit Gilles Villeneuve",1
+1989,"Circuit Paul Ricard",1
+1989,"Circuito de Jerez",1
+1989,Hockenheimring,1
+1989,Hungaroring,1
+1989,"Phoenix street circuit",1
+1989,"Silverstone Circuit",1
+1989,"Suzuka Circuit",1
+1993,"Autodromo Enzo e Dino Ferrari",1
+1993,"Autodromo Jose Carlos Pace",1
+1993,"Autodromo Nazionale di Monza",1
+1993,"Circuit de Barcelona-Catalunya",1
+1993,"Circuit de Monaco",1
+1993,"Circuit de Nevers Magny-Cours",1
+1993,"Circuit de Spa-Francorchamps",1
+1993,"Circuit Gilles Villeneuve",1
+1993,"Donington Park",1
+1993,Hockenheimring,1
+1993,Hungaroring,1
+1993,Kyalami,1
+1993,"Silverstone Circuit",1
+2006,"Albert Park Grand Prix Circuit",1
+2006,"Autodromo Enzo e Dino Ferrari",1
+2006,"Autodromo Jose Carlos Pace",1
+2006,"Autodromo Nazionale di Monza",1
+2006,"Bahrain International Circuit",1
+2006,"Circuit de Barcelona-Catalunya",1
+2006,"Circuit de Monaco",1
+2006,"Circuit de Nevers Magny-Cours",1
+2006,"Circuit Gilles Villeneuve",1
+2006,Hockenheimring,1
+2006,Hungaroring,1
+2006,"Indianapolis Motor Speedway",1
+2006,"Istanbul Park",1
+2006,Nurburgring,1
+2006,"Sepang International Circuit",1
+2006,"Shanghai International Circuit",1
+2006,"Silverstone Circuit",1
+2006,"Suzuka Circuit",1
+2007,"Albert Park Grand Prix Circuit",1
+2007,"Bahrain International Circuit",1
+2007,"Circuit de Barcelona-Catalunya",1
+2007,"Circuit de Monaco",1
+2007,"Circuit de Nevers Magny-Cours",1
+2007,"Circuit Gilles Villeneuve",1
+2007,"Indianapolis Motor Speedway",1
+2007,Nurburgring,1
+2007,"Sepang International Circuit",1
+2007,"Silverstone Circuit",1
+2015,"Autodromo Hermanos Rodriguez",1
+2015,"Autodromo Jose Carlos Pace",1
+2015,"Circuit of the Americas",1
+2015,"Marina Bay Street Circuit",1
+2015,"Suzuka Circuit",1

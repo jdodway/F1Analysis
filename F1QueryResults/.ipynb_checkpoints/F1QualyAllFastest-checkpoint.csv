@@ -1,0 +1,84 @@
+year,circuitRef,circuitName,position,q1,q2,q3
+1994,monza,"Autodromo Nazionale di Monza",1,1:23.844,\N,\N
+1994,spa,"Circuit de Spa-Francorchamps",1,2:21.163,\N,\N
+1994,silverstone,"Silverstone Circuit",1,1:24.960,\N,\N
+1995,monza,"Autodromo Nazionale di Monza",1,1:24.462,\N,\N
+1995,spa,"Circuit de Spa-Francorchamps",1,1:54.392,\N,\N
+1995,silverstone,"Silverstone Circuit",1,1:28.124,\N,\N
+1995,monaco,"Circuit de Monaco",1,1:21.952,\N,\N
+1996,monaco,"Circuit de Monaco",1,1:20.356,\N,\N
+1997,silverstone,"Silverstone Circuit",1,1:21.598,\N,\N
+1997,monaco,"Circuit de Monaco",1,1:18.216,\N,\N
+1998,spa,"Circuit de Spa-Francorchamps",1,1:48.682,\N,\N
+1998,silverstone,"Silverstone Circuit",1,1:23.271,\N,\N
+2000,silverstone,"Silverstone Circuit",1,1:25.703,\N,\N
+2003,monaco,"Circuit de Monaco",1,1:15.259,,
+2003,monza,"Autodromo Nazionale di Monza",1,1:20.963,\N,\N
+2003,silverstone,"Silverstone Circuit",1,1:21.209,\N,\N
+2004,monza,"Autodromo Nazionale di Monza",1,1:20.089,\N,\N
+2004,monaco,"Circuit de Monaco",1,1:13.985,\N,\N
+2004,silverstone,"Silverstone Circuit",1,1:18.233,\N,\N
+2004,spa,"Circuit de Spa-Francorchamps",1,1:56.232,\N,\N
+2005,spa,"Circuit de Spa-Francorchamps",1,1:46.391,\N,\N
+2005,monza,"Autodromo Nazionale di Monza",1,1:20.878,\N,\N
+2005,silverstone,"Silverstone Circuit",1,1:19.905,\N,\N
+2005,monaco,"Circuit de Monaco",1,1:13.644,1:16.681,\N
+2006,monza,"Autodromo Nazionale di Monza",1,1:21.994,1:21.349,1:21.484
+2006,silverstone,"Silverstone Circuit",1,1:21.018,1:20.271,1:20.253
+2006,monaco,"Circuit de Monaco",1,1:14.232,1:13.622,1:13.962
+2007,spa,"Circuit de Spa-Francorchamps",1,1:46.242,1:45.070,1:45.994
+2007,monza,"Autodromo Nazionale di Monza",1,1:21.718,1:21.356,1:21.997
+2007,silverstone,"Silverstone Circuit",1,1:19.885,1:19.400,1:19.997
+2007,monaco,"Circuit de Monaco",1,1:16.059,1:15.431,1:15.726
+2008,monaco,"Circuit de Monaco",1,1:15.190,1:15.110,1:15.787
+2008,monza,"Autodromo Nazionale di Monza",1,1:35.464,1:35.837,1:37.555
+2008,spa,"Circuit de Spa-Francorchamps",1,1:46.887,1:46.088,1:47.338
+2008,silverstone,"Silverstone Circuit",1,1:19.957,1:19.597,1:21.049
+2009,spa,"Circuit de Spa-Francorchamps",1,1:45.102,1:44.667,1:46.308
+2009,silverstone,"Silverstone Circuit",1,1:18.685,1:18.119,1:19.509
+2009,monaco,"Circuit de Monaco",1,1:15.210,1:15.016,1:14.902
+2009,monza,"Autodromo Nazionale di Monza",1,1:23.375,1:22.973,1:24.066
+2010,monaco,"Circuit de Monaco",1,1:15.035,1:14.462,1:13.826
+2010,silverstone,"Silverstone Circuit",1,1:30.841,1:30.480,1:29.615
+2010,spa,"Circuit de Spa-Francorchamps",1,1:57.352,1:47.253,1:45.778
+2010,monza,"Autodromo Nazionale di Monza",1,1:22.646,1:22.297,1:21.962
+2011,monaco,"Circuit de Monaco",1,1:15.606,1:14.277,1:13.556
+2011,silverstone,"Silverstone Circuit",1,1:32.670,1:31.673,1:30.399
+2011,spa,"Circuit de Spa-Francorchamps",1,2:03.029,2:03.317,1:48.298
+2011,monza,"Autodromo Nazionale di Monza",1,1:24.002,1:22.914,1:22.275
+2012,monaco,"Circuit de Monaco",1,1:15.873,1:15.062,1:14.301
+2012,silverstone,"Silverstone Circuit",1,1:46.515,1:56.921,1:51.746
+2012,spa,"Circuit de Spa-Francorchamps",1,1:49.250,1:47.654,1:47.573
+2012,monza,"Autodromo Nazionale di Monza",1,1:24.211,1:24.394,1:24.010
+2013,monaco,"Circuit de Monaco",1,1:24.620,1:16.135,1:13.876
+2013,silverstone,"Silverstone Circuit",1,1:30.995,1:31.224,1:29.607
+2013,spa,"Circuit de Spa-Francorchamps",1,2:00.368,1:49.067,2:01.012
+2013,monza,"Autodromo Nazionale di Monza",1,1:24.319,1:23.977,1:23.755
+2014,monaco,"Circuit de Monaco",1,1:17.678,1:16.465,1:15.989
+2014,silverstone,"Silverstone Circuit",1,1:40.380,1:35.179,1:35.766
+2014,spa,"Circuit de Spa-Francorchamps",1,2:07.130,2:06.723,2:05.591
+2014,monza,"Autodromo Nazionale di Monza",1,1:25.363,1:24.560,1:24.109
+2015,monaco,"Circuit de Monaco",1,1:16.588,1:15.864,1:15.098
+2015,silverstone,"Silverstone Circuit",1,1:33.796,1:33.068,1:32.248
+2015,spa,"Circuit de Spa-Francorchamps",1,1:48.908,1:48.024,1:47.197
+2015,monza,"Autodromo Nazionale di Monza",1,1:24.251,1:23.383,1:23.397
+2016,monaco,"Circuit de Monaco",1,1:14.912,1:14.357,1:13.622
+2016,silverstone,"Silverstone Circuit",1,1:30.739,1:29.243,1:29.287
+2016,spa,"Circuit de Spa-Francorchamps",1,1:48.019,1:46.999,1:46.744
+2016,monza,"Autodromo Nazionale di Monza",1,1:21.854,1:21.498,1:21.135
+2017,monaco,"Circuit de Monaco",1,1:13.117,1:12.231,1:12.178
+2017,silverstone,"Silverstone Circuit",1,1:39.069,1:27.893,1:26.600
+2017,spa,"Circuit de Spa-Francorchamps",1,1:44.184,1:42.927,1:42.553
+2017,monza,"Autodromo Nazionale di Monza",1,1:36.009,1:34.660,1:35.554
+2018,monaco,"Circuit de Monaco",1,1:12.013,1:11.278,1:10.810
+2018,silverstone,"Silverstone Circuit",1,1:26.818,1:26.256,1:25.892
+2018,spa,"Circuit de Spa-Francorchamps",1,1:42.977,1:41.553,1:58.179
+2018,monza,"Autodromo Nazionale di Monza",1,1:20.722,1:19.846,1:19.119
+2019,monaco,"Circuit de Monaco",1,1:11.542,1:10.835,1:10.166
+2019,silverstone,"Silverstone Circuit",1,1:25.750,1:25.672,1:25.093
+2019,spa,"Circuit de Spa-Francorchamps",1,1:43.587,1:42.938,1:42.519
+2019,monza,"Autodromo Nazionale di Monza",1,1:20.126,1:19.553,1:19.307
+2020,silverstone,"Silverstone Circuit",1,1:25.900,1:25.347,1:24.303
+2020,silverstone,"Silverstone Circuit",1,1:26.738,1:25.785,1:25.154
+2020,spa,"Circuit de Spa-Francorchamps",1,1:42.323,1:42.014,1:41.252
+2020,monza,"Autodromo Nazionale di Monza",1,1:19.514,1:19.092,1:18.887
