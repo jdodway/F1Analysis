@@ -6,9 +6,10 @@ I will be doing some analysis and visualizations, along with some data scraping 
 
 I will eventually create some visualizations in Tableau.
 
+DriversChampionship will display any desired season.
+
+
 
 To Do:
-
-* Create website so I can show plotly
 * Add context, like track changes with images, car regulation changes, etc, to F1AllRaces
 
