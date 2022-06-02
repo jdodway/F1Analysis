@@ -8,7 +8,7 @@ Formula 1 is currently made up of 20 driver's representing a team with a fellow 
 
 The F1 season comprises a series of races on a variety of tracks throughout the whole world. There are tracks that have been around since the beginning of F1 and others that are brand new or currently being built. 
 
-At the end of each race, drivers and constructors are respectively rewarded with points based on the position they finish in the race. At the end of the season, the driver with the most points is titled the World Drivers' Champion and the constructor with the most points is titled the World Constructors' Champion. Currently the point system goes as followed:
+At the end of each race, drivers and constructors are respectively rewarded with points based on the position they finish in the race. At the end of the season, the driver and constructor with the most points is titled the World Drivers' Champion and World Constructors' Champion, respectively. Currently the point system goes as followed:
 
 
 |  Position  | Points rewarded |
