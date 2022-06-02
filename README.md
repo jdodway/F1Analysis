@@ -25,7 +25,7 @@ At the end of each race, drivers and constructors are respectively rewarded with
 |     10     |         1       |
 |    11-20   |         0       |
 
-An additional points are rewarded for the driver and team with the fastest lap during the race.
+An additional point is rewarded for the driver and team with the fastest lap during each race.
 
 
 ## The F1 Data
