@@ -1,4 +1,4 @@
-raceId,year,name,forename,surname,Constructor,finishingPosition,points
+raceId,year,name,forename,surname,Constructors,finishingPosition,points
 1,2009,"Australian Grand Prix",Jenson,Button,Brawn,1,10
 1,2009,"Australian Grand Prix",Rubens,Barrichello,Brawn,2,8
 1,2009,"Australian Grand Prix",Jarno,Trulli,Toyota,3,6

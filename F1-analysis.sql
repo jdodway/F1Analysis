@@ -30,7 +30,7 @@ where races.year = 1984 ORDER BY raceID ASC, finishingPosition ASC ;
 
 -- Drivers and constructors ranking after each race from every season, 
 -- exported as F1EveryRace.csv
-SELECT results.raceId, year ,races.name, forename, surname,  constructors.name as Constructor, finishingPosition, points 
+SELECT results.raceId, year ,races.name, forename, surname,  constructors.name as Constructors, finishingPosition, points 
 from results JOIN drivers on results.driverId = drivers.driverId 
 JOIN constructors on results.constructorId = constructors.constructorId
 JOIN races on results.raceID = races.raceId
