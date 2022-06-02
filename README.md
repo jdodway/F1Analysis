@@ -1,12 +1,5 @@
 # F1Analysis
 
-Table Of Contents
-
-## Formula 1
-## The F1 Data
-## MySQL
-## Python
-
 ## Formula 1
 
 This project is to further explore and visually represent the metrics of Formula 1 racing. Formula 1 racing is the pinnacle of global motorsports and I fell in love with it during 2020. F1 first debuted in 1950 and has been growing with the innovation of technology, specifically motor vehicles. 
