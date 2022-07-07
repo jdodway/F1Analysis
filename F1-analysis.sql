@@ -21,6 +21,14 @@ JOIN constructors on results.constructorId = constructors.constructorId
 JOIN races on results.raceID = races.raceId
 where races.year = 2007 ORDER BY raceID ASC, finishingPosition ASC ;
 
+-- Drivers and constructors ranking after each race for 2007 season, 
+-- exported as F1RaceTimeline2007.csv
+SELECT results.raceId, year ,races.name, concat(forename,' ', suraname) as Drivername,  constructors.name, finishingPosition, points 
+from results JOIN drivers on results.driverId = drivers.driverId 
+JOIN constructors on results.constructorId = constructors.constructorId
+JOIN races on results.raceID = races.raceId
+where races.year = 2007 ORDER BY raceID ASC, finishingPosition ASC ;
+
 -- Drivers and constructors ranking after each race for 1984
 SELECT results.raceId, year ,races.name, forename, surname,  constructors.name, finishingPosition, points 
 from results JOIN drivers on results.driverId = drivers.driverId 

@@ -1,0 +1,375 @@
+raceId,year,name,forename,surname,name,finishingPosition,points
+36,2007,"Australian Grand Prix",Kimi,Raikkonen,Ferrari,1,10
+36,2007,"Australian Grand Prix",Fernando,Alonso,McLaren,2,8
+36,2007,"Australian Grand Prix",Lewis,Hamilton,McLaren,3,6
+36,2007,"Australian Grand Prix",Nick,Heidfeld,"BMW Sauber",4,5
+36,2007,"Australian Grand Prix",Giancarlo,Fisichella,Renault,5,4
+36,2007,"Australian Grand Prix",Felipe,Massa,Ferrari,6,3
+36,2007,"Australian Grand Prix",Nico,Rosberg,Williams,7,2
+36,2007,"Australian Grand Prix",Ralf,Schumacher,Toyota,8,1
+36,2007,"Australian Grand Prix",Jarno,Trulli,Toyota,9,0
+36,2007,"Australian Grand Prix",Heikki,Kovalainen,Renault,10,0
+36,2007,"Australian Grand Prix",Rubens,Barrichello,Honda,11,0
+36,2007,"Australian Grand Prix",Takuma,Sato,"Super Aguri",12,0
+36,2007,"Australian Grand Prix",Mark,Webber,"Red Bull",13,0
+36,2007,"Australian Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",14,0
+36,2007,"Australian Grand Prix",Jenson,Button,Honda,15,0
+36,2007,"Australian Grand Prix",Anthony,Davidson,"Super Aguri",16,0
+36,2007,"Australian Grand Prix",Adrian,Sutil,Spyker,17,0
+36,2007,"Australian Grand Prix",Alexander,Wurz,Williams,18,0
+36,2007,"Australian Grand Prix",David,Coulthard,"Red Bull",19,0
+36,2007,"Australian Grand Prix",Robert,Kubica,"BMW Sauber",20,0
+36,2007,"Australian Grand Prix",Scott,Speed,"Toro Rosso",21,0
+36,2007,"Australian Grand Prix",Christijan,Albers,Spyker,22,0
+37,2007,"Malaysian Grand Prix",Fernando,Alonso,McLaren,1,10
+37,2007,"Malaysian Grand Prix",Lewis,Hamilton,McLaren,2,8
+37,2007,"Malaysian Grand Prix",Kimi,Raikkonen,Ferrari,3,6
+37,2007,"Malaysian Grand Prix",Nick,Heidfeld,"BMW Sauber",4,5
+37,2007,"Malaysian Grand Prix",Felipe,Massa,Ferrari,5,4
+37,2007,"Malaysian Grand Prix",Giancarlo,Fisichella,Renault,6,3
+37,2007,"Malaysian Grand Prix",Jarno,Trulli,Toyota,7,2
+37,2007,"Malaysian Grand Prix",Heikki,Kovalainen,Renault,8,1
+37,2007,"Malaysian Grand Prix",Alexander,Wurz,Williams,9,0
+37,2007,"Malaysian Grand Prix",Mark,Webber,"Red Bull",10,0
+37,2007,"Malaysian Grand Prix",Rubens,Barrichello,Honda,11,0
+37,2007,"Malaysian Grand Prix",Jenson,Button,Honda,12,0
+37,2007,"Malaysian Grand Prix",Takuma,Sato,"Super Aguri",13,0
+37,2007,"Malaysian Grand Prix",Scott,Speed,"Toro Rosso",14,0
+37,2007,"Malaysian Grand Prix",Ralf,Schumacher,Toyota,15,0
+37,2007,"Malaysian Grand Prix",Anthony,Davidson,"Super Aguri",16,0
+37,2007,"Malaysian Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",17,0
+37,2007,"Malaysian Grand Prix",Robert,Kubica,"BMW Sauber",18,0
+37,2007,"Malaysian Grand Prix",Nico,Rosberg,Williams,19,0
+37,2007,"Malaysian Grand Prix",David,Coulthard,"Red Bull",20,0
+37,2007,"Malaysian Grand Prix",Christijan,Albers,Spyker,21,0
+37,2007,"Malaysian Grand Prix",Adrian,Sutil,Spyker,22,0
+38,2007,"Bahrain Grand Prix",Felipe,Massa,Ferrari,1,10
+38,2007,"Bahrain Grand Prix",Lewis,Hamilton,McLaren,2,8
+38,2007,"Bahrain Grand Prix",Kimi,Raikkonen,Ferrari,3,6
+38,2007,"Bahrain Grand Prix",Nick,Heidfeld,"BMW Sauber",4,5
+38,2007,"Bahrain Grand Prix",Fernando,Alonso,McLaren,5,4
+38,2007,"Bahrain Grand Prix",Robert,Kubica,"BMW Sauber",6,3
+38,2007,"Bahrain Grand Prix",Jarno,Trulli,Toyota,7,2
+38,2007,"Bahrain Grand Prix",Giancarlo,Fisichella,Renault,8,1
+38,2007,"Bahrain Grand Prix",Heikki,Kovalainen,Renault,9,0
+38,2007,"Bahrain Grand Prix",Nico,Rosberg,Williams,10,0
+38,2007,"Bahrain Grand Prix",Alexander,Wurz,Williams,11,0
+38,2007,"Bahrain Grand Prix",Ralf,Schumacher,Toyota,12,0
+38,2007,"Bahrain Grand Prix",Rubens,Barrichello,Honda,13,0
+38,2007,"Bahrain Grand Prix",Christijan,Albers,Spyker,14,0
+38,2007,"Bahrain Grand Prix",Adrian,Sutil,Spyker,15,0
+38,2007,"Bahrain Grand Prix",Anthony,Davidson,"Super Aguri",16,0
+38,2007,"Bahrain Grand Prix",Mark,Webber,"Red Bull",17,0
+38,2007,"Bahrain Grand Prix",David,Coulthard,"Red Bull",18,0
+38,2007,"Bahrain Grand Prix",Takuma,Sato,"Super Aguri",19,0
+38,2007,"Bahrain Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",20,0
+38,2007,"Bahrain Grand Prix",Jenson,Button,Honda,21,0
+38,2007,"Bahrain Grand Prix",Scott,Speed,"Toro Rosso",22,0
+39,2007,"Spanish Grand Prix",Felipe,Massa,Ferrari,1,10
+39,2007,"Spanish Grand Prix",Lewis,Hamilton,McLaren,2,8
+39,2007,"Spanish Grand Prix",Fernando,Alonso,McLaren,3,6
+39,2007,"Spanish Grand Prix",Robert,Kubica,"BMW Sauber",4,5
+39,2007,"Spanish Grand Prix",David,Coulthard,"Red Bull",5,4
+39,2007,"Spanish Grand Prix",Nico,Rosberg,Williams,6,3
+39,2007,"Spanish Grand Prix",Heikki,Kovalainen,Renault,7,2
+39,2007,"Spanish Grand Prix",Takuma,Sato,"Super Aguri",8,1
+39,2007,"Spanish Grand Prix",Giancarlo,Fisichella,Renault,9,0
+39,2007,"Spanish Grand Prix",Rubens,Barrichello,Honda,10,0
+39,2007,"Spanish Grand Prix",Anthony,Davidson,"Super Aguri",11,0
+39,2007,"Spanish Grand Prix",Jenson,Button,Honda,12,0
+39,2007,"Spanish Grand Prix",Adrian,Sutil,Spyker,13,0
+39,2007,"Spanish Grand Prix",Christijan,Albers,Spyker,14,0
+39,2007,"Spanish Grand Prix",Nick,Heidfeld,"BMW Sauber",15,0
+39,2007,"Spanish Grand Prix",Ralf,Schumacher,Toyota,16,0
+39,2007,"Spanish Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",17,0
+39,2007,"Spanish Grand Prix",Scott,Speed,"Toro Rosso",18,0
+39,2007,"Spanish Grand Prix",Kimi,Raikkonen,Ferrari,19,0
+39,2007,"Spanish Grand Prix",Jarno,Trulli,Toyota,20,0
+39,2007,"Spanish Grand Prix",Mark,Webber,"Red Bull",21,0
+39,2007,"Spanish Grand Prix",Alexander,Wurz,Williams,22,0
+40,2007,"Monaco Grand Prix",Fernando,Alonso,McLaren,1,10
+40,2007,"Monaco Grand Prix",Lewis,Hamilton,McLaren,2,8
+40,2007,"Monaco Grand Prix",Felipe,Massa,Ferrari,3,6
+40,2007,"Monaco Grand Prix",Giancarlo,Fisichella,Renault,4,5
+40,2007,"Monaco Grand Prix",Robert,Kubica,"BMW Sauber",5,4
+40,2007,"Monaco Grand Prix",Nick,Heidfeld,"BMW Sauber",6,3
+40,2007,"Monaco Grand Prix",Alexander,Wurz,Williams,7,2
+40,2007,"Monaco Grand Prix",Kimi,Raikkonen,Ferrari,8,1
+40,2007,"Monaco Grand Prix",Scott,Speed,"Toro Rosso",9,0
+40,2007,"Monaco Grand Prix",Rubens,Barrichello,Honda,10,0
+40,2007,"Monaco Grand Prix",Jenson,Button,Honda,11,0
+40,2007,"Monaco Grand Prix",Nico,Rosberg,Williams,12,0
+40,2007,"Monaco Grand Prix",Heikki,Kovalainen,Renault,13,0
+40,2007,"Monaco Grand Prix",David,Coulthard,"Red Bull",14,0
+40,2007,"Monaco Grand Prix",Jarno,Trulli,Toyota,15,0
+40,2007,"Monaco Grand Prix",Ralf,Schumacher,Toyota,16,0
+40,2007,"Monaco Grand Prix",Takuma,Sato,"Super Aguri",17,0
+40,2007,"Monaco Grand Prix",Anthony,Davidson,"Super Aguri",18,0
+40,2007,"Monaco Grand Prix",Christijan,Albers,Spyker,19,0
+40,2007,"Monaco Grand Prix",Adrian,Sutil,Spyker,20,0
+40,2007,"Monaco Grand Prix",Mark,Webber,"Red Bull",21,0
+40,2007,"Monaco Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",22,0
+41,2007,"Canadian Grand Prix",Lewis,Hamilton,McLaren,1,10
+41,2007,"Canadian Grand Prix",Nick,Heidfeld,"BMW Sauber",2,8
+41,2007,"Canadian Grand Prix",Alexander,Wurz,Williams,3,6
+41,2007,"Canadian Grand Prix",Heikki,Kovalainen,Renault,4,5
+41,2007,"Canadian Grand Prix",Kimi,Raikkonen,Ferrari,5,4
+41,2007,"Canadian Grand Prix",Takuma,Sato,"Super Aguri",6,3
+41,2007,"Canadian Grand Prix",Fernando,Alonso,McLaren,7,2
+41,2007,"Canadian Grand Prix",Ralf,Schumacher,Toyota,8,1
+41,2007,"Canadian Grand Prix",Mark,Webber,"Red Bull",9,0
+41,2007,"Canadian Grand Prix",Nico,Rosberg,Williams,10,0
+41,2007,"Canadian Grand Prix",Anthony,Davidson,"Super Aguri",11,0
+41,2007,"Canadian Grand Prix",Rubens,Barrichello,Honda,12,0
+41,2007,"Canadian Grand Prix",Jarno,Trulli,Toyota,13,0
+41,2007,"Canadian Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",14,0
+41,2007,"Canadian Grand Prix",Christijan,Albers,Spyker,15,0
+41,2007,"Canadian Grand Prix",David,Coulthard,"Red Bull",16,0
+41,2007,"Canadian Grand Prix",Robert,Kubica,"BMW Sauber",17,0
+41,2007,"Canadian Grand Prix",Adrian,Sutil,Spyker,18,0
+41,2007,"Canadian Grand Prix",Scott,Speed,"Toro Rosso",19,0
+41,2007,"Canadian Grand Prix",Jenson,Button,Honda,20,0
+41,2007,"Canadian Grand Prix",Felipe,Massa,Ferrari,21,0
+41,2007,"Canadian Grand Prix",Giancarlo,Fisichella,Renault,22,0
+42,2007,"United States Grand Prix",Lewis,Hamilton,McLaren,1,10
+42,2007,"United States Grand Prix",Fernando,Alonso,McLaren,2,8
+42,2007,"United States Grand Prix",Felipe,Massa,Ferrari,3,6
+42,2007,"United States Grand Prix",Kimi,Raikkonen,Ferrari,4,5
+42,2007,"United States Grand Prix",Heikki,Kovalainen,Renault,5,4
+42,2007,"United States Grand Prix",Jarno,Trulli,Toyota,6,3
+42,2007,"United States Grand Prix",Mark,Webber,"Red Bull",7,2
+42,2007,"United States Grand Prix",Sebastian,Vettel,"BMW Sauber",8,1
+42,2007,"United States Grand Prix",Giancarlo,Fisichella,Renault,9,0
+42,2007,"United States Grand Prix",Alexander,Wurz,Williams,10,0
+42,2007,"United States Grand Prix",Anthony,Davidson,"Super Aguri",11,0
+42,2007,"United States Grand Prix",Jenson,Button,Honda,12,0
+42,2007,"United States Grand Prix",Scott,Speed,"Toro Rosso",13,0
+42,2007,"United States Grand Prix",Adrian,Sutil,Spyker,14,0
+42,2007,"United States Grand Prix",Christijan,Albers,Spyker,15,0
+42,2007,"United States Grand Prix",Nico,Rosberg,Williams,16,0
+42,2007,"United States Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",17,0
+42,2007,"United States Grand Prix",Nick,Heidfeld,"BMW Sauber",18,0
+42,2007,"United States Grand Prix",Takuma,Sato,"Super Aguri",19,0
+42,2007,"United States Grand Prix",David,Coulthard,"Red Bull",20,0
+42,2007,"United States Grand Prix",Rubens,Barrichello,Honda,21,0
+42,2007,"United States Grand Prix",Ralf,Schumacher,Toyota,22,0
+43,2007,"French Grand Prix",Kimi,Raikkonen,Ferrari,1,10
+43,2007,"French Grand Prix",Felipe,Massa,Ferrari,2,8
+43,2007,"French Grand Prix",Lewis,Hamilton,McLaren,3,6
+43,2007,"French Grand Prix",Robert,Kubica,"BMW Sauber",4,5
+43,2007,"French Grand Prix",Nick,Heidfeld,"BMW Sauber",5,4
+43,2007,"French Grand Prix",Giancarlo,Fisichella,Renault,6,3
+43,2007,"French Grand Prix",Fernando,Alonso,McLaren,7,2
+43,2007,"French Grand Prix",Jenson,Button,Honda,8,1
+43,2007,"French Grand Prix",Nico,Rosberg,Williams,9,0
+43,2007,"French Grand Prix",Ralf,Schumacher,Toyota,10,0
+43,2007,"French Grand Prix",Rubens,Barrichello,Honda,11,0
+43,2007,"French Grand Prix",Mark,Webber,"Red Bull",12,0
+43,2007,"French Grand Prix",David,Coulthard,"Red Bull",13,0
+43,2007,"French Grand Prix",Alexander,Wurz,Williams,14,0
+43,2007,"French Grand Prix",Heikki,Kovalainen,Renault,15,0
+43,2007,"French Grand Prix",Takuma,Sato,"Super Aguri",16,0
+43,2007,"French Grand Prix",Adrian,Sutil,Spyker,17,0
+43,2007,"French Grand Prix",Scott,Speed,"Toro Rosso",18,0
+43,2007,"French Grand Prix",Christijan,Albers,Spyker,19,0
+43,2007,"French Grand Prix",Anthony,Davidson,"Super Aguri",20,0
+43,2007,"French Grand Prix",Jarno,Trulli,Toyota,21,0
+43,2007,"French Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",22,0
+44,2007,"British Grand Prix",Kimi,Raikkonen,Ferrari,1,10
+44,2007,"British Grand Prix",Fernando,Alonso,McLaren,2,8
+44,2007,"British Grand Prix",Lewis,Hamilton,McLaren,3,6
+44,2007,"British Grand Prix",Robert,Kubica,"BMW Sauber",4,5
+44,2007,"British Grand Prix",Felipe,Massa,Ferrari,5,4
+44,2007,"British Grand Prix",Nick,Heidfeld,"BMW Sauber",6,3
+44,2007,"British Grand Prix",Heikki,Kovalainen,Renault,7,2
+44,2007,"British Grand Prix",Giancarlo,Fisichella,Renault,8,1
+44,2007,"British Grand Prix",Rubens,Barrichello,Honda,9,0
+44,2007,"British Grand Prix",Jenson,Button,Honda,10,0
+44,2007,"British Grand Prix",David,Coulthard,"Red Bull",11,0
+44,2007,"British Grand Prix",Nico,Rosberg,Williams,12,0
+44,2007,"British Grand Prix",Alexander,Wurz,Williams,13,0
+44,2007,"British Grand Prix",Takuma,Sato,"Super Aguri",14,0
+44,2007,"British Grand Prix",Christijan,Albers,Spyker,15,0
+44,2007,"British Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",16,0
+44,2007,"British Grand Prix",Jarno,Trulli,Toyota,17,0
+44,2007,"British Grand Prix",Anthony,Davidson,"Super Aguri",18,0
+44,2007,"British Grand Prix",Scott,Speed,"Toro Rosso",19,0
+44,2007,"British Grand Prix",Ralf,Schumacher,Toyota,20,0
+44,2007,"British Grand Prix",Adrian,Sutil,Spyker,21,0
+44,2007,"British Grand Prix",Mark,Webber,"Red Bull",22,0
+45,2007,"European Grand Prix",Fernando,Alonso,McLaren,1,10
+45,2007,"European Grand Prix",Felipe,Massa,Ferrari,2,8
+45,2007,"European Grand Prix",Mark,Webber,"Red Bull",3,6
+45,2007,"European Grand Prix",Alexander,Wurz,Williams,4,5
+45,2007,"European Grand Prix",David,Coulthard,"Red Bull",5,4
+45,2007,"European Grand Prix",Nick,Heidfeld,"BMW Sauber",6,3
+45,2007,"European Grand Prix",Robert,Kubica,"BMW Sauber",7,2
+45,2007,"European Grand Prix",Heikki,Kovalainen,Renault,8,1
+45,2007,"European Grand Prix",Lewis,Hamilton,McLaren,9,0
+45,2007,"European Grand Prix",Giancarlo,Fisichella,Renault,10,0
+45,2007,"European Grand Prix",Rubens,Barrichello,Honda,11,0
+45,2007,"European Grand Prix",Anthony,Davidson,"Super Aguri",12,0
+45,2007,"European Grand Prix",Jarno,Trulli,Toyota,13,0
+45,2007,"European Grand Prix",Kimi,Raikkonen,Ferrari,14,0
+45,2007,"European Grand Prix",Takuma,Sato,"Super Aguri",15,0
+45,2007,"European Grand Prix",Ralf,Schumacher,Toyota,16,0
+45,2007,"European Grand Prix",Markus,Winkelhock,Spyker,17,0
+45,2007,"European Grand Prix",Jenson,Button,Honda,18,0
+45,2007,"European Grand Prix",Adrian,Sutil,Spyker,19,0
+45,2007,"European Grand Prix",Nico,Rosberg,Williams,20,0
+45,2007,"European Grand Prix",Scott,Speed,"Toro Rosso",21,0
+45,2007,"European Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",22,0
+46,2007,"Hungarian Grand Prix",Lewis,Hamilton,McLaren,1,10
+46,2007,"Hungarian Grand Prix",Kimi,Raikkonen,Ferrari,2,8
+46,2007,"Hungarian Grand Prix",Nick,Heidfeld,"BMW Sauber",3,6
+46,2007,"Hungarian Grand Prix",Fernando,Alonso,McLaren,4,5
+46,2007,"Hungarian Grand Prix",Robert,Kubica,"BMW Sauber",5,4
+46,2007,"Hungarian Grand Prix",Ralf,Schumacher,Toyota,6,3
+46,2007,"Hungarian Grand Prix",Nico,Rosberg,Williams,7,2
+46,2007,"Hungarian Grand Prix",Heikki,Kovalainen,Renault,8,1
+46,2007,"Hungarian Grand Prix",Mark,Webber,"Red Bull",9,0
+46,2007,"Hungarian Grand Prix",Jarno,Trulli,Toyota,10,0
+46,2007,"Hungarian Grand Prix",David,Coulthard,"Red Bull",11,0
+46,2007,"Hungarian Grand Prix",Giancarlo,Fisichella,Renault,12,0
+46,2007,"Hungarian Grand Prix",Felipe,Massa,Ferrari,13,0
+46,2007,"Hungarian Grand Prix",Alexander,Wurz,Williams,14,0
+46,2007,"Hungarian Grand Prix",Takuma,Sato,"Super Aguri",15,0
+46,2007,"Hungarian Grand Prix",Sebastian,Vettel,"Toro Rosso",16,0
+46,2007,"Hungarian Grand Prix",Adrian,Sutil,Spyker,17,0
+46,2007,"Hungarian Grand Prix",Rubens,Barrichello,Honda,18,0
+46,2007,"Hungarian Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",19,0
+46,2007,"Hungarian Grand Prix",Anthony,Davidson,"Super Aguri",20,0
+46,2007,"Hungarian Grand Prix",Jenson,Button,Honda,21,0
+46,2007,"Hungarian Grand Prix",Sakon,Yamamoto,Spyker,22,0
+47,2007,"Turkish Grand Prix",Felipe,Massa,Ferrari,1,10
+47,2007,"Turkish Grand Prix",Kimi,Raikkonen,Ferrari,2,8
+47,2007,"Turkish Grand Prix",Fernando,Alonso,McLaren,3,6
+47,2007,"Turkish Grand Prix",Nick,Heidfeld,"BMW Sauber",4,5
+47,2007,"Turkish Grand Prix",Lewis,Hamilton,McLaren,5,4
+47,2007,"Turkish Grand Prix",Heikki,Kovalainen,Renault,6,3
+47,2007,"Turkish Grand Prix",Nico,Rosberg,Williams,7,2
+47,2007,"Turkish Grand Prix",Robert,Kubica,"BMW Sauber",8,1
+47,2007,"Turkish Grand Prix",Giancarlo,Fisichella,Renault,9,0
+47,2007,"Turkish Grand Prix",David,Coulthard,"Red Bull",10,0
+47,2007,"Turkish Grand Prix",Alexander,Wurz,Williams,11,0
+47,2007,"Turkish Grand Prix",Ralf,Schumacher,Toyota,12,0
+47,2007,"Turkish Grand Prix",Jenson,Button,Honda,13,0
+47,2007,"Turkish Grand Prix",Anthony,Davidson,"Super Aguri",14,0
+47,2007,"Turkish Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",15,0
+47,2007,"Turkish Grand Prix",Jarno,Trulli,Toyota,16,0
+47,2007,"Turkish Grand Prix",Rubens,Barrichello,Honda,17,0
+47,2007,"Turkish Grand Prix",Takuma,Sato,"Super Aguri",18,0
+47,2007,"Turkish Grand Prix",Sebastian,Vettel,"Toro Rosso",19,0
+47,2007,"Turkish Grand Prix",Sakon,Yamamoto,Spyker,20,0
+47,2007,"Turkish Grand Prix",Adrian,Sutil,Spyker,21,0
+47,2007,"Turkish Grand Prix",Mark,Webber,"Red Bull",22,0
+48,2007,"Italian Grand Prix",Fernando,Alonso,McLaren,1,10
+48,2007,"Italian Grand Prix",Lewis,Hamilton,McLaren,2,8
+48,2007,"Italian Grand Prix",Kimi,Raikkonen,Ferrari,3,6
+48,2007,"Italian Grand Prix",Nick,Heidfeld,"BMW Sauber",4,5
+48,2007,"Italian Grand Prix",Robert,Kubica,"BMW Sauber",5,4
+48,2007,"Italian Grand Prix",Nico,Rosberg,Williams,6,3
+48,2007,"Italian Grand Prix",Heikki,Kovalainen,Renault,7,2
+48,2007,"Italian Grand Prix",Jenson,Button,Honda,8,1
+48,2007,"Italian Grand Prix",Mark,Webber,"Red Bull",9,0
+48,2007,"Italian Grand Prix",Rubens,Barrichello,Honda,10,0
+48,2007,"Italian Grand Prix",Jarno,Trulli,Toyota,11,0
+48,2007,"Italian Grand Prix",Giancarlo,Fisichella,Renault,12,0
+48,2007,"Italian Grand Prix",Alexander,Wurz,Williams,13,0
+48,2007,"Italian Grand Prix",Anthony,Davidson,"Super Aguri",14,0
+48,2007,"Italian Grand Prix",Ralf,Schumacher,Toyota,15,0
+48,2007,"Italian Grand Prix",Takuma,Sato,"Super Aguri",16,0
+48,2007,"Italian Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",17,0
+48,2007,"Italian Grand Prix",Sebastian,Vettel,"Toro Rosso",18,0
+48,2007,"Italian Grand Prix",Adrian,Sutil,Spyker,19,0
+48,2007,"Italian Grand Prix",Sakon,Yamamoto,Spyker,20,0
+48,2007,"Italian Grand Prix",Felipe,Massa,Ferrari,21,0
+48,2007,"Italian Grand Prix",David,Coulthard,"Red Bull",22,0
+49,2007,"Belgian Grand Prix",Kimi,Raikkonen,Ferrari,1,10
+49,2007,"Belgian Grand Prix",Felipe,Massa,Ferrari,2,8
+49,2007,"Belgian Grand Prix",Fernando,Alonso,McLaren,3,6
+49,2007,"Belgian Grand Prix",Lewis,Hamilton,McLaren,4,5
+49,2007,"Belgian Grand Prix",Nick,Heidfeld,"BMW Sauber",5,4
+49,2007,"Belgian Grand Prix",Nico,Rosberg,Williams,6,3
+49,2007,"Belgian Grand Prix",Mark,Webber,"Red Bull",7,2
+49,2007,"Belgian Grand Prix",Heikki,Kovalainen,Renault,8,1
+49,2007,"Belgian Grand Prix",Robert,Kubica,"BMW Sauber",9,0
+49,2007,"Belgian Grand Prix",Ralf,Schumacher,Toyota,10,0
+49,2007,"Belgian Grand Prix",Jarno,Trulli,Toyota,11,0
+49,2007,"Belgian Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",12,0
+49,2007,"Belgian Grand Prix",Rubens,Barrichello,Honda,13,0
+49,2007,"Belgian Grand Prix",Adrian,Sutil,Spyker,14,0
+49,2007,"Belgian Grand Prix",Takuma,Sato,"Super Aguri",15,0
+49,2007,"Belgian Grand Prix",Anthony,Davidson,"Super Aguri",16,0
+49,2007,"Belgian Grand Prix",Sakon,Yamamoto,Spyker,17,0
+49,2007,"Belgian Grand Prix",Jenson,Button,Honda,18,0
+49,2007,"Belgian Grand Prix",Alexander,Wurz,Williams,19,0
+49,2007,"Belgian Grand Prix",David,Coulthard,"Red Bull",20,0
+49,2007,"Belgian Grand Prix",Sebastian,Vettel,"Toro Rosso",21,0
+49,2007,"Belgian Grand Prix",Giancarlo,Fisichella,Renault,22,0
+50,2007,"Japanese Grand Prix",Lewis,Hamilton,McLaren,1,10
+50,2007,"Japanese Grand Prix",Heikki,Kovalainen,Renault,2,8
+50,2007,"Japanese Grand Prix",Kimi,Raikkonen,Ferrari,3,6
+50,2007,"Japanese Grand Prix",David,Coulthard,"Red Bull",4,5
+50,2007,"Japanese Grand Prix",Giancarlo,Fisichella,Renault,5,4
+50,2007,"Japanese Grand Prix",Felipe,Massa,Ferrari,6,3
+50,2007,"Japanese Grand Prix",Robert,Kubica,"BMW Sauber",7,2
+50,2007,"Japanese Grand Prix",Adrian,Sutil,Spyker,8,1
+50,2007,"Japanese Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",9,0
+50,2007,"Japanese Grand Prix",Rubens,Barrichello,Honda,10,0
+50,2007,"Japanese Grand Prix",Jenson,Button,Honda,11,0
+50,2007,"Japanese Grand Prix",Sakon,Yamamoto,Spyker,12,0
+50,2007,"Japanese Grand Prix",Jarno,Trulli,Toyota,13,0
+50,2007,"Japanese Grand Prix",Nick,Heidfeld,"BMW Sauber",14,0
+50,2007,"Japanese Grand Prix",Takuma,Sato,"Super Aguri",15,0
+50,2007,"Japanese Grand Prix",Ralf,Schumacher,Toyota,16,0
+50,2007,"Japanese Grand Prix",Anthony,Davidson,"Super Aguri",17,0
+50,2007,"Japanese Grand Prix",Nico,Rosberg,Williams,18,0
+50,2007,"Japanese Grand Prix",Sebastian,Vettel,"Toro Rosso",19,0
+50,2007,"Japanese Grand Prix",Mark,Webber,"Red Bull",20,0
+50,2007,"Japanese Grand Prix",Fernando,Alonso,McLaren,21,0
+50,2007,"Japanese Grand Prix",Alexander,Wurz,Williams,22,0
+51,2007,"Chinese Grand Prix",Kimi,Raikkonen,Ferrari,1,10
+51,2007,"Chinese Grand Prix",Fernando,Alonso,McLaren,2,8
+51,2007,"Chinese Grand Prix",Felipe,Massa,Ferrari,3,6
+51,2007,"Chinese Grand Prix",Sebastian,Vettel,"Toro Rosso",4,5
+51,2007,"Chinese Grand Prix",Jenson,Button,Honda,5,4
+51,2007,"Chinese Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",6,3
+51,2007,"Chinese Grand Prix",Nick,Heidfeld,"BMW Sauber",7,2
+51,2007,"Chinese Grand Prix",David,Coulthard,"Red Bull",8,1
+51,2007,"Chinese Grand Prix",Heikki,Kovalainen,Renault,9,0
+51,2007,"Chinese Grand Prix",Mark,Webber,"Red Bull",10,0
+51,2007,"Chinese Grand Prix",Giancarlo,Fisichella,Renault,11,0
+51,2007,"Chinese Grand Prix",Alexander,Wurz,Williams,12,0
+51,2007,"Chinese Grand Prix",Jarno,Trulli,Toyota,13,0
+51,2007,"Chinese Grand Prix",Takuma,Sato,"Super Aguri",14,0
+51,2007,"Chinese Grand Prix",Rubens,Barrichello,Honda,15,0
+51,2007,"Chinese Grand Prix",Nico,Rosberg,Williams,16,0
+51,2007,"Chinese Grand Prix",Sakon,Yamamoto,Spyker,17,0
+51,2007,"Chinese Grand Prix",Robert,Kubica,"BMW Sauber",18,0
+51,2007,"Chinese Grand Prix",Lewis,Hamilton,McLaren,19,0
+51,2007,"Chinese Grand Prix",Ralf,Schumacher,Toyota,20,0
+51,2007,"Chinese Grand Prix",Adrian,Sutil,Spyker,21,0
+51,2007,"Chinese Grand Prix",Anthony,Davidson,"Super Aguri",22,0
+52,2007,"Brazilian Grand Prix",Kimi,Raikkonen,Ferrari,1,10
+52,2007,"Brazilian Grand Prix",Felipe,Massa,Ferrari,2,8
+52,2007,"Brazilian Grand Prix",Fernando,Alonso,McLaren,3,6
+52,2007,"Brazilian Grand Prix",Nico,Rosberg,Williams,4,5
+52,2007,"Brazilian Grand Prix",Robert,Kubica,"BMW Sauber",5,4
+52,2007,"Brazilian Grand Prix",Nick,Heidfeld,"BMW Sauber",6,3
+52,2007,"Brazilian Grand Prix",Lewis,Hamilton,McLaren,7,2
+52,2007,"Brazilian Grand Prix",Jarno,Trulli,Toyota,8,1
+52,2007,"Brazilian Grand Prix",David,Coulthard,"Red Bull",9,0
+52,2007,"Brazilian Grand Prix",Kazuki,Nakajima,Williams,10,0
+52,2007,"Brazilian Grand Prix",Ralf,Schumacher,Toyota,11,0
+52,2007,"Brazilian Grand Prix",Takuma,Sato,"Super Aguri",12,0
+52,2007,"Brazilian Grand Prix",Vitantonio,Liuzzi,"Toro Rosso",13,0
+52,2007,"Brazilian Grand Prix",Anthony,Davidson,"Super Aguri",14,0
+52,2007,"Brazilian Grand Prix",Adrian,Sutil,Spyker,15,0
+52,2007,"Brazilian Grand Prix",Rubens,Barrichello,Honda,16,0
+52,2007,"Brazilian Grand Prix",Heikki,Kovalainen,Renault,17,0
+52,2007,"Brazilian Grand Prix",Sebastian,Vettel,"Toro Rosso",18,0
+52,2007,"Brazilian Grand Prix",Jenson,Button,Honda,19,0
+52,2007,"Brazilian Grand Prix",Mark,Webber,"Red Bull",20,0
+52,2007,"Brazilian Grand Prix",Sakon,Yamamoto,Spyker,21,0
+52,2007,"Brazilian Grand Prix",Giancarlo,Fisichella,Renault,22,0
